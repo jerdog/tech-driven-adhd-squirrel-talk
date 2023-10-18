@@ -1,0 +1,17 @@
+[build]
+command = "hugo"
+publish = "public"
+
+[context.production.environment]
+HUGO_VERSION = "0.113.0"
+GO_VERSION = "1.19.4"
+
+[context.branch-deploy.environment]
+command = "hugo --buildDrafts --buildFuture"
+HUGO_VERSION = "0.113.0"
+GO_VERSION = "1.20"
+
+[context.deploy-preview.environment]
+command = "hugo --buildDrafts --buildFuture"
+HUGO_VERSION = "0.113.0"
+GO_VERSION = "1.20"
