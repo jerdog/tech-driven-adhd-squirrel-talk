@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme: 'github.com/dzello/reveal-hugo'
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'My New Hugo Site'
+theme: github.com/dzello/reveal-hugo
 
 markup:
   goldmark:
