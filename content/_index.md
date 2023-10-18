@@ -5,5 +5,5 @@ outputs = ["Reveal"]
 custom_css = "css/custom.css"
 +++
 
-# Confessions of an ADHD-fueled technology…. SQUIRREL!
+### Confessions of an ADHD-fueled technology…. SQUIRREL!
 
