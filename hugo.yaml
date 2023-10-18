@@ -1,6 +1,6 @@
-baseURL: 'https://example.org/'
+baseURL: 'https://adhd-squirrel-tech-confessions.netlify.app/'
 languageCode: 'en-us'
-title: 'My New Hugo Site'
+title: 'ADHD Squirrel Tech Confessions'
 theme: github.com/dzello/reveal-hugo
 
 markup:
