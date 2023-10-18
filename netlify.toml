@@ -3,15 +3,15 @@ command = "hugo"
 publish = "public"
 
 [context.production.environment]
-HUGO_VERSION = "0.113.0"
+HUGO_VERSION = "0.119.0"
 GO_VERSION = "1.23"
 
 [context.branch-deploy.environment]
 command = "hugo --buildDrafts --buildFuture"
-HUGO_VERSION = "0.113.0"
+HUGO_VERSION = "0.119.0"
 GO_VERSION = "1.23"
 
 [context.deploy-preview.environment]
 command = "hugo --buildDrafts --buildFuture"
-HUGO_VERSION = "0.113.0"
+HUGO_VERSION = "0.119.0"
 GO_VERSION = "1.23"
