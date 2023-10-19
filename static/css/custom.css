@@ -15,35 +15,56 @@ html.speaker-view[data-speaker-layout="tall"] .speaker-controls {
 }
 
 .table {
-  width: 100%;
-  margin-bottom: 1rem;
-  color: #cfd7de;
+  width: 75%;
   font-size: 1.5rem; !important;
-  text-align: center; !important;
 }
 .table th,
 .table td {
   padding: 0.75rem;
   vertical-align: top;
-  border-top: 1px solid #dee2e6;
+  border-top: 1px solid black;
 }
 .table thead th {
-  vertical-align: bottom;
-  border-bottom: 2px solid #dee2e6;
+  vertical-align: middle;
+  border-bottom: 2px solid black;
 }
 .table tbody + tbody {
-  border-top: 2px solid #dee2e6;
+  border-top: 2px solid black;
 }
 
 .table-bordered {
-  border: 1px solid #dee2e6;
+  border: 1px solid black;
 }
 .table-bordered th,
 .table-bordered td {
-  border: 1px solid #dee2e6;
+  border: 1px solid black;
 }
 .table-bordered thead th,
 .table-bordered thead td {
   border-bottom-width: 2px;
 }
 
+.reveal table th, .reveal table td {
+  text-align: center;
+  vertical-align: middle;
+  padding: 0.2em 0.5em 0.2em 0.5em;
+  /* border-bottom: 1px solid; */
+}
+
+.twitter-tweet-rendered {
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.reveal blockquote {
+  display: block;
+  position: relative;
+  width: 100%;
+  margin: var(--r-block-margin) auto;
+  padding: 5px;
+  font-style: italic;
+  font-size: 1.5em;
+  background: rgba(255, 255, 255, 0.05);
+  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2);
+}
