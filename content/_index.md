@@ -34,6 +34,14 @@ How do you do it? Because that’s not me. Like, at all. Not even in the slighte
 
 ---
 
+{{<slide background-image="/images/thebeginning-lewis-carroll.jpg">}}
+
+{{% note %}}
+We're going to go on a journey, and since the organizers told me I could talk as long as I wanted, we're in this together until the end!
+{{% /note %}}
+
+---
+
 ![adhd-storytelling by Dani Donovan](/images/adhd-storytelling.jpeg)
 {.r-stretch}
 
@@ -43,25 +51,26 @@ I think Dani Donovan accurately represented what you all are about to experience
 
 ---
 
-{{% tweet user="SarakiJoon" id="1467935241939537921" %}}
+<img src="/images/covid19-sucks-zombies.jpeg" width="50%">
+<figcaption style="font-size: .40em;font-style: italic;">Image: Spreadshirt.com</figcaption>
 
 {{% note %}}
-Covid sucked. In so many ways, but that first year, geez did it suck: being stuck at home, couldn’t really go anywhere, and if you did, you were supposed to keep 6 feet between you and the next human at all times. The only real contact was with people you requested to come to your home to drop food off, until the apps created that “no contact mode”,
+Covid sucked. In so many ways, but that first year, geez did it suck: being stuck at home, couldn’t really go anywhere, and if you did, you were supposed to keep 6 feet between you and the next human at all times. 
 {{% /note %}}
 
 ---
 
+![food delivery](/images/food-delivery.jpeg "Image: Brilliant & Company, Medium post")
+{.r-stretch}
+
 {{% note %}}
-which meant you didn’t have to deal with that awkward moment of receiving your groceries from someone you didn’t know. I know, I’m probably describing an introvert’s heaven. But that was _so_ not me.
+The only real contact was with people you requested to come to your home to drop food off, until the apps created that “no contact mode”, which meant you didn’t have to deal with that awkward moment of receiving your groceries from someone you didn’t know. I know, I’m probably describing an introvert’s heaven. But that was _so_ not me. I thrive when I'm around people. Let me tell you a bit about me.
 {{% /note %}}
 
 ---
 
-{{% note %}}
-I have been in Developer Relations in some way for the last 15 years, and really I’ve just been doing it for probably my entire almost 30 years in tech, often without even knowing it. Let’s begin at the beginning, because the organizers told me I could talk as long as I wanted.
-{{% /note %}}
-
----
+![80s tech](/images/80s-tech.gif)
+{.r-stretch}
 
 {{% note %}}
 I am a child of the mid-70s. That means, I grew up knowing about (and using) all of these things. It just seemed that for me, and many of my generation, that we took to technology so easily.
