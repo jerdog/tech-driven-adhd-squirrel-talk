@@ -43,6 +43,8 @@ I think Dani Donovan accurately represented what you all are about to experience
 
 ---
 
+{{% tweet user="SarakiJoon" id="1467935241939537921" %}}
+
 {{% note %}}
 Covid sucked. In so many ways, but that first year, geez did it suck: being stuck at home, couldn’t really go anywhere, and if you did, you were supposed to keep 6 feet between you and the next human at all times. The only real contact was with people you requested to come to your home to drop food off, until the apps created that “no contact mode”,
 {{% /note %}}
