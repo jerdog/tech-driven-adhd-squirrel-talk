@@ -618,7 +618,7 @@ They even did a podcast with one of our speakers from yesterday afternoon, Ceora
 
 ---
 
-### ADHD Resources to help you
+### ADHD Resources
 
 - [r/ADHD_Programmers](https://www.reddit.com/r/ADHD\_Programmers/)
 - [American Professional Society of ADHD & Related Disorders](https://apsard.org/)
@@ -751,5 +751,51 @@ Hussein brings up that it's ok to embrace those "sprints" of hen you get super, 
 
 ---
 
+### Quick Review
+
+<p style="font-size: .75em;">1. Be open, honest, and tell your story.</p>
+<p style="font-size: .75em;">2. ADHD doesn’t have to hold you back.</p>
+<p style="font-size: .75em;">3. Talk to someone. Get help.</p>
+<p style="font-size: .75em;">4. There are resources available.</p>
+
+{{% note %}}
+
+{{% /note %}}
 
 ---
+
+### ADHD Resources
+
+- [r/ADHD_Programmers](https://www.reddit.com/r/ADHD\_Programmers/)
+- [American Professional Society of ADHD & Related Disorders](https://apsard.org/)
+- [Attention Deficit Disorder Association](https://add.org/)
+  - [ADDA: ADHD Workplace Accomodations Guide](https://add.org/adhd-workplace-accommodations-guide/)
+- [Children and Adults with ADHD](https://chadd.org/)
+- [National Institute of Mental Health: ADHD Information](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd)
+- [Benefits.gov: ADHD Resources](https://www.benefits.gov/news/article/471)
+- [Wired Magazine: How Technology Can Help You Cope With ADHD
+](https://www.wired.com/story/how-technology-help-cope-with-adhd/)
+- [WebMD: Adult ADHD Symptoms, Causes, Treatments](https://www.webmd.com/add-adhd/adhd-adults)
+  - [WebMD: Living Well with Adult ADHD](https://www.webmd.com/add-adhd/living-well-adult-adhd)
+
+{{% note %}}
+
+{{% /note %}}
+
+---
+
+{{< slide id="end" >}}
+<section>
+    <div class="multiCol">
+        <div class="col">
+            <h3 style="color: #04aa51;">Thank You.</h3>
+        </div>
+        <div class="col" align="center"></div>
+        <div class="col" align="left" style="font-size: .5em;">
+            <img src="/images/linkedin.png" height="50px" style="vertical-align: middle; margin: 10px;">/in/jeremymeiss<br />
+            <img src="/images/twitter.png" height="50px" style="vertical-align: middle; margin: 10px;">@IAmJerdog<br />
+            <img src="/images/devto.png" height="50px" style="vertical-align: middle; margin: 10px;">@jerdog<br />
+            <img src="/images/mastodon.png" height="50px" style="vertical-align: middle; margin: 10px;">@jerdog@hachyderm.io
+        </div>
+    </div>
+</section>
