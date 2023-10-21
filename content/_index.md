@@ -78,17 +78,26 @@ I am a child of the mid-70s. That means, I grew up knowing about (and using) all
 
 ---
 
+![pizza hut bookit program](/images/pizzahut-bookit.jpeg "Image: @80sSportsNStuff on Twitter")
+{.r-stretch}
+
 {{% note %}}
-There wasn’t a lot I could focus on, but reading - man that was something I could do for hours, and days, on end. I read everything I could get my hands on. In 1984 Pizza Hut started this summer reading campaign called BOOK IT where you would read X number of books and then get a free personal pan pizza. I ate so much pizza that year, and many summers after. I’m not saying that Pizza Hut ignited my desire to read, but I’m not _not_ saying it either.
+There wasn’t a lot I could focus on, but reading - man that was something I could do for hours, and days, on end. I read everything I could get my hands on. In 1984 Pizza Hut started this summer reading campaign called BOOK IT where you would read a certain number of books and then get a free personal pan pizza. I ate so much pizza that year, and many summers after. I’m not saying that Pizza Hut ignited my desire to read, but I’m not _not_ saying it either.
 {{% /note %}}
 
 ---
+
+![boy sitting at desk reading](/images/boy-sitting-desk-reading.jpg "Image: Freepik.com")
+{.r-stretch}
 
 {{% note %}}
 Some of my earliest memories was going to the library to check out books. In a laundry basket. Every two weeks. Full. I have yet to this day seen so many librarians get so happy at the same time, much less fight over who got to check us out.
 {{% /note %}}
 
 ---
+
+![kid at desk with 2 monitors](/images/kid-pcxt.jpg "Image: Alamy")
+{.r-stretch}
 
 {{% note %}}
 Computers. That was another thing I could mess around with for hours on end. My choices of books started taking on things like:
@@ -115,7 +124,7 @@ Computers. That was another thing I could mess around with for hours on end. My 
 </section>
 
 {{% note %}}
-I hooked and messed around with them as often as I could, wherever I could. In the early 1980s my uncle worked for a company that provided IT services to the US Government in the early 80s, and let me mess around and borrow these just about as often as I wanted:
+I was hooked and messed around with them as often as I could, wherever I could. In the early 1980s my uncle worked for a company that provided IT services to the US Government in the early 80s, and let me mess around and borrow these just about as often as I wanted:
 {{% /note %}}
 
 ---
@@ -208,10 +217,12 @@ That love for computers, and trying everything I would read, led me to start typ
 {.r-stretch}
 
 {{% note %}}
-It’s gonna make you have to say, “So, mom and dad. The computer isn’t working right now, but don’t worry. I know why. I’ll just be downstairs for the next few hours putting some files back on the computer.” But who I was I kidding? It took over a day, because everything was on 5.25” disks, installing DOS 3 back onto an 20MB MFM RLL drive. But, I sure as hell didn’t do that again.
+It’s gonna make you have to say, “So, mom and dad. The computer isn’t working right now, but don’t worry. I know why. I’ll just be downstairs for the next few hours putting some files back on the computer.” But who I was I kidding? It took over a day, because everything was on 5.25” disks, installing DOS 3 back onto an 20MB MFM RLL drive. But, I sure as hell didn’t do that again. Until Slackware Linux and the great `rm -rf` command.
 {{% /note %}}
 
 ---
+
+![empty schoolyard playground](/images/empty-schoolyard.jpg "Image: iStockPhoto")
 
 {{% note %}}
 Prior to the summer of 1984, I had been going to a private school, but in 4th grade my parents took me and my sister (2 years younger than me) out and started homeschooling us. The stated reason at the time was that they felt it was their responsibility as parents to teach us - it was a religious-based decision.
@@ -219,11 +230,17 @@ Prior to the summer of 1984, I had been going to a private school, but in 4th gr
 
 ---
 
+![distracted kid](/images/distracted-kid.jpg "Image: Advenium")
+{.r-stretch}
+
 {{% note %}}
 Later in life when I was in my late 20s, I would come to find out that the contributing factor to them beginning to explore options was because I was struggling to focus, a bit hyper, trouble making friends, and getting picked on due to all of those. Because of my ADHD. 
 {{% /note %}}
 
 ---
+
+<img src="/images/first-kiss.jpeg" style="filter: blur(30px);" alt="definitely-not-jeremy's-first-kiss" width="80%">
+{.r-stretch}
 
 {{% note %}}
 There was this one story that I kept repeating later in life that stood out as an early memory, which was one of the last ones at that school. And no, it’s not the story of my first kiss in 3rd grade with Heather at the high school basketball game (this private school was K-12), and then immediately afterwards her getting her head stuck in the bars overlooking the court. Those two facts have _nothing_ to do with each other.
@@ -231,17 +248,26 @@ There was this one story that I kept repeating later in life that stood out as a
 
 ---
 
+![kickball game at recess](/images/kickball.jpeg "Image: Springfield/South County Youth")
+{.r-stretch}
+
 {{% note %}}
 No, it’s the story of the first half of my 3rd grade year when we would play kickball at recess, and me and these 5 other guys were always a team. And we would always win, even beating teams of older elementary kids. Every recess. 
 {{% /note %}}
 
 ---
 
+![lonely-kid-sandbox](/images/lonely-kid-sandbox.jpeg "Image: iStockPhoto")
+{.r-stretch}
+
 {{% note %}}
-And then after Winter break, suddenly I was told I wasn’t on their team, had never been on their team, and why would they have me, a kid with glasses, on their kickball team? I was devastated. And this repeated itself for weeks, until I finally stopped asking. And found something else to play.
+And then after Winter break, suddenly I was told I wasn’t on their team, had never been on their team, and why would they have me, a kid with glasses, on their kickball team? I was devastated. And this repeated itself for weeks, until I finally stopped asking. And found something else to play. How many of you ever tried playing tetherball by yourself?
 {{% /note %}}
 
 ---
+
+![adhd child bingo](/images/adhd-child-bingo.jpeg)
+{.r-stretch}
 
 {{% note %}}
 I wasn’t diagnosed with ADHD then, because this was the early 80s, and my parents firmly believed that ADHD wasn’t real, and was just an excuse for parents not to spend time with their kids and to shut them up so they could go work two jobs in order to afford a living.
@@ -250,7 +276,7 @@ I wasn’t diagnosed with ADHD then, because this was the early 80s, and my pare
 ---
 
 {{% note %}}
-So I started homeschooling. Which dovetailed nicely with my obsession with tech and computers and reading and I excelled in that structure. Because of my ADHD. 
+So they started homeschooling me. Which dovetailed nicely with my obsession with tech and computers and reading and I excelled in that structure. Because of my ADHD. 
 {{% /note %}}
 
 ---
