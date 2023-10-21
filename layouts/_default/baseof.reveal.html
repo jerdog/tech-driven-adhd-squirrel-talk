@@ -21,7 +21,7 @@
     {{ if .Param "logo.src" }}
     <style>
       #logo {
-        z-index: 1;
+        z-index: 1000;
         position: absolute;
         top: {{ if .Param "logo.top"}}{{ .Param "logo.top" }}{{ else if .Param "logo.diag" }}{{ .Param "logo.diag" }}{{ else }}1%{{ end }};
         left: {{ if .Param "logo.top"}}{{ .Param "logo.left" }}{{ else if .Param "logo.diag" }}{{ .Param "logo.diag" }}{{ else }}1%{{ end }};
@@ -29,6 +29,7 @@
         opacity: {{ if .Param "logo.opacity"}}{{ .Param "logo.opacity" }}{{ else }}1.0{{ end }};
       }
       #logo-btm-left {
+        z-index: 1000;
         position: absolute;
         top: {{ if .Param "logo-btm-left.top"}}{{ .Param "logo-btm-left.top" }}{{ else if .Param "logo-btm-left.diag" }}{{ .Param "logo-btm-left.diag" }}{{ else }}1%{{ end }};
         left: {{ if .Param "logo-btm-left.top"}}{{ .Param "logo-btm-left.left" }}{{ else if .Param "logo-btm-left.diag" }}{{ .Param "logo-btm-left.diag" }}{{ else }}1%{{ end }};
