@@ -793,7 +793,7 @@ Spending too much time planning, problem-solving, daydreaming, or thinking negat
 
 ---
 
-
+![anxious-bunny](/images/anxious-bunny.gif)
 
 {{% note %}}
 It helped identify one of the biggest triggers for me around my ADHD, and maybe this is for you as well. Whenever I would start to feel anxious, or out of control with what was going on around me, or overwhelmed with tasks, etc. I would start to feel a bit off in my body. It’s hard to describe, but just a feeling of “ugh” and my heart rate kind of spiking, etc. 
@@ -801,7 +801,7 @@ It helped identify one of the biggest triggers for me around my ADHD, and maybe 
 
 ---
 
-
+![yoda-breathe](/images/yoda-breathe.gif)
 
 {{% note %}}
 He helped me to start to recognize when that happened and to identify what I was feeling, what was going on around me, etc. and then to turn that into taking a few moments to breathe. Write down what I was doing, or needed to be done. Go walk around. Get a glass of water. Anything to break up that spiraling moment, and then move forward.
