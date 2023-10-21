@@ -5,6 +5,20 @@ outputs = ["Reveal"]
 custom_css = "css/custom.css"
 +++
 
+<!--
+Base slide skeleton
+
+---
+
+
+
+{{% note %}}
+
+{{% /note %}}
+
+
+-->
+
 ### Confessions of an ADHD-fueled technologi…. 🐿️!
 
 {{% note %}}
@@ -47,6 +61,15 @@ We're going to go on a journey, and since the organizers told me I could talk as
 
 {{% note %}}
 I think Dani Donovan accurately represented what you all are about to experience. I’m gonna bounce around here with different stories and hopefully arrive at a point, but this is an ADHD talk, so what did you expect?
+{{% /note %}}
+
+---
+
+![disclaimer](/images/disclaimer.jpg "Image: PublicDomainPictures from Pixabay")
+{.r-stretch}
+
+{{% note %}}
+Now I do need to make this disclaimer before going any further... I am not a doctor. What I am going to share are my own personal experiences, and your mileage may well vary.
 {{% /note %}}
 
 ---
@@ -234,7 +257,7 @@ Prior to the summer of 1984, I had been going to a private school, but in 4th gr
 {.r-stretch}
 
 {{% note %}}
-Later in life when I was in my late 20s, I would come to find out that the contributing factor to them beginning to explore options was because I was struggling to focus, a bit hyper, trouble making friends, and getting picked on due to all of those. Because of my ADHD. 
+Later in life when I was in my late 20s, I would come to find out that the contributing factor to them beginning to explore options was because I was struggling to focus, a bit hyper, trouble making friends, and getting picked on due to all of those. Those were all symptoms.  
 {{% /note %}}
 
 ---
@@ -275,8 +298,11 @@ I wasn’t diagnosed with ADHD then, because this was the early 80s, and my pare
 
 ---
 
+![homeschooling-wikipedia](/images/homeschooling.jpeg "Image: Wikipedia")
+{.r-stretch}
+
 {{% note %}}
-So they started homeschooling me. Which dovetailed nicely with my obsession with tech and computers and reading and I excelled in that structure. Because of my ADHD. 
+So they started homeschooling me. Which dovetailed nicely with my obsession with tech and computers and reading and I excelled in that structure. Again, symptoms and attempted mitigation.
 {{% /note %}}
 
 ---
@@ -316,6 +342,12 @@ During that first year of Covid lockdowns, many people I know, oddly a lot of th
 
 {{% note %}}
 So where were we? Oh yeah - my worsening mental state. I had begun noticing that I was more irritable with my family (well they informed me I was), I was losing my trains of thought, finding it really hard to focus, and even _not_ being able to find the words to say something even though it was _right there on the tip of my tongue_.
+{{% /note %}}
+
+---
+
+{{% note %}}
+Finally, I got concerned, and went to my doctor in May of 2021. I told her what I was experiencing, and she of course mentioned it could be any number of things, but they would do some blood tests and then go from there. I heard back from the doctor later that day as I was finalizing my camping trip to Colorado. 
 {{% /note %}}
 
 ---
@@ -384,7 +416,7 @@ So where were we? Oh yeah - my worsening mental state. I had begun noticing that
 </table>
 
 {{% note %}}
-Finally, I got concerned, and went to my doctor in May of 2021. I told her what I was experiencing, and she of course mentioned it could be any number of things, but they would do some blood tests and then go from there. I heard back from the doctor later that day as I was finalizing my camping trip to Colorado. The nurse gave me these results, and then told me I had iron-deficiency anemia, to get on high doses of Iron, and they needed me to come in for some more tests the next week before they identified next steps. 
+The nurse gave me these results, and then told me I had iron-deficiency anemia, to get on high doses of Iron, and they needed me to come in for some more tests the next week before they identified next steps. 
 {{% /note %}}
 
 ---
@@ -463,7 +495,7 @@ After returning, my doctor referred me to a plethora of specialists
 
 ---
 
-
+>background-repeat: no-repeat;
 
 {{% note %}}
 I had blood drawn multiple times, was poked, prodded, got an endoscopy AND a colonoscopy at the same time (because I’m a ROCK STAR - you get the “geologist” joke now?), and all sorts of other tests to figure out what was wrong because there had to be a bleed somewhere to explain those test results. But there wasn’t. I didn’t have _any_ of the symptoms that normally came from severe iron-deficiency anemia. So the only thing was to continue consuming vast quantities of iron supplements and wait for the results to go up, and also to wait to get into the neuropsychologist. 
@@ -484,11 +516,137 @@ Eventually I did get a meeting with the neuropsychologist, and then took the tes
 
 ---
 
+### ADHD
+>a mental condition, beginning in childhood and often persisting into later life, that is characterized by persistent difficulty in maintaining attention and concentration, and is frequently accompanied by hyperactive and impulsive behavior.
+
+-CDC
+
+{{% note %}}
+The definition from the CDC is that ADHD is a mental condition characterized by persistent difficulty in maintaining attention and concentration, and is frequently accompanied by hyperactive and impulsive behavior. It’s a condition that affects how different brain areas develop and work together. ADHD starts in childhood, but many people don’t get this diagnosis until they’re teenagers or adults.
+{{% /note %}}
+
+---
+
+![adhd mind with colourful thoughts](/images/adhd.jpg "Image: Tara Winstead, Pexels")
+{.r-stretch}
+
+{{% note %}}
+People who have ADHD are neurodivergent. That means their brains develop and work differently than people who are neurotypical (which means their brains developed and work as expected).
+
+The symptoms of ADHD (attention-deficit/hyperactivity disorder) revolve around an issue called executive dysfunction. Executive functions help you manage focus, concentration, emotional regulation, impulse control and self-motivation.
+
+{{% /note %}}
+
+---
+
+### 3 Subtypes of ADHD
+
+1. Inattentive
+2. Hyperactive/Impulsive
+3. Mixed
+
+***Source: Psychiatry.org***
+
+{{% note %}}
+There are three subtypes of ADHD: inattentive, hyperactive/impulsive and mixed. Women aren’t as likely to have hyperactive/impulsive symptoms. That means they’re less likely to have the hyperactive/impulsive or mixed subtypes. Women are more likely to receive this diagnosis as adults.
+{{% /note %}}
+
+---
+
+#### Cis Women often underdiagnosed
+
+<li style="font-size: 0.6em;"><strong>Symptom types:</strong> easier to notice hyperactivity and impulsiveness</li>
+<li style="font-size: 0.6em;"><strong>Bias:</strong> since more common in Cis males, not often looked at for Cis women</li>
+<li style="font-size: 0.6em;"><strong>Less available research:</strong> with ≠ sample sizes, AFAB rarely included</li>
+<li style="font-size: 0.6em;"><strong>Inattention symptoms occur later:</strong> seen in structured environments, i.e. college</li>
+
+***Source: CHADD.org, Healthline.com***
+
+{{% note %}}
+With **more common symptoms** more visible in men/boys, they get diagnosed more often. And those behaviors are often considered more socially acceptable for them, and so women suppress or hide theirs to fit in better, and don't get diagnosed. **Bias:** 
+**Research:** We know most studies don't take equal sample sizes, if they include afabs at all.
+**Inattention symptoms in females** with ADHD are more likely to occur in structured educational environments, such as college, which may delay the diagnosis.
+{{% /note %}}
+
+---
+
+#### Cis Women less likely to _outgrow_
+
+* 60% vs 30% have ADHD continuing into adulthood
+* People who "outgrow" usually still have symptoms
+
+***Source: NIH.gov, PsychCentral.com***
+
+{{% note %}}
+Women are less likely to outgrow ADHD. About 60% of women have ADHD that continues into adulthood, compared with about 30% of men. People who “outgrow” it usually still have some symptoms, but the symptoms eventually aren’t severe enough to meet the criteria for diagnosis.
+{{% /note %}}
+
+---
+
+<section>
+    <h4>Cis Males/Females different comorbidity patterns</h4>
+    <p style="font-size: 0.3em;"><strong>comorbidity</strong> is when another condition occurs alongside another</p>
+<table class="table table-bordered .r-stretch">
+    <thead>
+        <th>Cis Males: Externalizing</th>
+        <th>Cis Females: Internalizing</th>
+    </thead>
+    <tr>
+        <td>
+            <ul>
+                <li>substance misuse</li>
+                <li>conduct disorders</li>
+                <li>antisocial personality disorders</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>anxiety</li>
+                <li>depression</li>
+                <li>somatic symptom disorders</li>
+                <li>eating disorders</li>
+        </td>
+    </tr>
+</table>
+<p style="font-style: italic;">Source: Medical News Today</p>
+</section>
+
+{{% note %}}
+Males and females also show different patterns of comorbidity, which is when another condition occurs alongside ADHD. 
+**Males are more likely** to have externalizing disorders, such as:
+**females are more likely** to have internalizing disorders, such as:
+Quantitative assessments still focus on external behaviors that interfere with other people. But most women struggle with an internalized sense of impairment that affects their sense of self and qualitative life management skills.
+{{% /note %}}
+
+---
+
+#### Anxiety & Mood disorders often misdiagnosis for Cis Women
+
+As a result, Cis women with ADHD often are distracted from own self-care
+
+* Postpone checkups and procedures 
+* Function with serious sleep deficits
+* Inconsistent eating patterns can result in complications
+* Chronically stressed, may turn to Rx to manage other symptoms of:
+  - anxiety
+  - mood disorders
+  - sleep
+  - pain
+  - OR, may self-medicate with alcohol or drugs
+
+*Source: WebMD, NIH.gov, ADDitudemag.com*
+
+{{% note %}}
+Women are often misdiagnosed and treated for anxiety and mood disorders as primary diagnoses. 
+{{% /note %}}
+
+---
+
 ![ADHD skeptics](/images/adhd-skeptics.jpeg)
 {.r-stretch}
 
 {{% note %}}
-That of course wasn’t a surprise, because to my parents, ADHD was a myth and just an attempt by “big-pharma” to make lots of money and get people addicted (this same excuse and faulty reasoning would surface _many_ times from them whenever their Facebook doctor/nurse/“scientist”/etc. had something to sell, or a global pandemic was on the loose, etc.). 
+My diagnosis of course wasn’t a surprise, because as I mentioned before, to my parents, ADHD was a myth and just an attempt by “big-pharma” to make lots of money and get people addicted (this same excuse and faulty reasoning would surface _many_ times from them whenever their Facebook doctor/nurse/“scientist”/etc. had something to sell, or a global pandemic was on the loose, etc.). 
 {{% /note %}}
 
 ---
@@ -644,10 +802,11 @@ They even did a podcast with one of our speakers from yesterday afternoon, Ceora
 
 ### I say all this because...
 
-<p style="font-size: .75em;">1. Be open, honest, and tell your story.</p>
+<p style="font-size: .75em;">1. Be open and tell your story.</p>
 <p style="font-size: .75em;">2. ADHD doesn’t have to hold you back.</p>
-<p class="fragment" style="font-size: .75em;">3. Talk to someone. Get help.</p>
-<p class="fragment" style="font-size: .75em;">4. There are resources available.</p>
+<p class="fragment" style="font-size: .75em;">3. Cut yourself some slack.</p>
+<p class="fragment" style="font-size: .75em;">4. Talk to someone. Get help.</p>
+<p class="fragment" style="font-size: .75em;">5. There are resources available.</p>
 
 {{% note %}}
 
@@ -664,10 +823,11 @@ They even did a podcast with one of our speakers from yesterday afternoon, Ceora
 - [Children and Adults with ADHD](https://chadd.org/)
 - [National Institute of Mental Health: ADHD Information](https://www.nimh.nih.gov/health/topics/attention-deficit-hyperactivity-disorder-adhd)
 - [Benefits.gov: ADHD Resources](https://www.benefits.gov/news/article/471)
-- [Wired Magazine: How Technology Can Help You Cope With ADHD
-](https://www.wired.com/story/how-technology-help-cope-with-adhd/)
+- [Wired Magazine: How Technology Can Help You Cope With ADHD](https://www.wired.com/story/how-technology-help-cope-with-adhd/)
 - [WebMD: Adult ADHD Symptoms, Causes, Treatments](https://www.webmd.com/add-adhd/adhd-adults)
   - [WebMD: Living Well with Adult ADHD](https://www.webmd.com/add-adhd/living-well-adult-adhd)
+- [Cleveland Clinic: ADHD in Women](https://my.clevelandclinic.org/health/diseases/24741-adhd-in-women)
+- [ADDitude Magazine: Gender differences in ADHD](https://www.additudemag.com/gender-differences-in-adhd-women-vs-men/)
 
 {{% note %}}
 
@@ -792,8 +952,9 @@ Hussein brings up that it's ok to embrace those "sprints" of hen you get super, 
 
 <p style="font-size: .75em;">1. Be open, honest, and tell your story.</p>
 <p style="font-size: .75em;">2. ADHD doesn’t have to hold you back.</p>
-<p style="font-size: .75em;">3. Talk to someone. Get help.</p>
-<p style="font-size: .75em;">4. There are resources available.</p>
+<p style="font-size: .75em;">3. Cut yourself some slack.</p>
+<p style="font-size: .75em;">4. Talk to someone. Get help.</p>
+<p style="font-size: .75em;">5. There are resources available.</p>
 
 {{% note %}}
 
