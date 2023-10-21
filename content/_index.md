@@ -447,6 +447,7 @@ The nurse gave me these results, and then told me I had iron-deficiency anemia, 
 ---
 
 ![jeremy-on-a-mountain-top](/images/mountain-view.jpeg "Image: Jeremy at Alice-Toxaway Divide, Idaho, 2023.")
+{.r-stretch}
 
 {{% note %}}
 Now let me tell you about me and mountains. They are my happy place. I grew up in the flatlands (Kansas), and my only experience with “mountains” was the Appalachians and the Great Smoky Mountains in the East. I never saw real mountains in person, and really never traveled further west than Sydney, NE, until 1998 when I traveled with some friends to a college conference in Denver, Colorado. 
@@ -455,6 +456,7 @@ Now let me tell you about me and mountains. They are my happy place. I grew up i
 ---
 
 ![mount-elbert-colorado](/images/mount-elbert.jpeg "Image: Jeremy and Wife, Mount Elbert, CO, 14,439 feet.")
+{.r-stretch}
 
 {{% note %}}
 I was in complete, and total awe. I was hooked. Over the last 25 years I’ve traveled West more than East, and seen more mountains than I had previously thought possible, hiked quite a few, and even had the privilege of hiking the highest mountain in the American Rockies, Mount Elbert, outside Leadville, Colorado with my wife.
@@ -462,7 +464,8 @@ I was in complete, and total awe. I was hooked. Over the last 25 years I’ve tr
 
 ---
 
-
+![mt-rainier](/images/mt-rainier.jpeg "Image: Mount Rainier, Washington")
+{.r-stretch}
 
 {{% note %}}
 I’ve probably taken more pictures of mountains than people in the last 10 to 15 years, or at least my pictures have a lot more mountains in them than not. I even got emotional in October 2021 when I flew over mountains, and could see them from the plane, for the first time since February 2020.
@@ -472,7 +475,8 @@ So back to the call with the nurse:
 
 ---
 
-
+![mr-bean-shocked](/images/shocked-bean-mr-bean.gif)
+{.r-stretch}
 
 {{% note %}}
 I was in shock. I had been planning this mountain camping trip with my buddies for months, and was literally leaving in a few days. After just over a year of dealing with isolation, my mental challenges, and all the things, a trip to the mountains was exactly what I needed. And I was getting denied that. After getting off the phone, I sat dumbfounded for a few moments, and then I cried. Not like a few tears - it was a heaving, draining cry. I was devastated. 
@@ -480,7 +484,8 @@ I was in shock. I had been planning this mountain camping trip with my buddies f
 
 ---
 
-
+![ozarks-jeremy-hammock](/images/ozarks-hammock.jpeg "Image: Jeremy's hammock tent, Ozarks, May 2021")
+{.r-stretch}
 
 {{% note %}}
 Luckily, my friends were understanding, and suggested we go to the Ozarks in northwest Arkansas instead, and still make the most of it. I was thankful for that, and it definitely helped, but it wasn’t the same. I mean, come on. Who wants this….
@@ -488,18 +493,16 @@ Luckily, my friends were understanding, and suggested we go to the Ozarks in nor
 
 ---
 
-
+![mountain-lake-camping](/images/camping-mountain-lake.jpeg "Image: Camping at Toxaway Lake, Idaho, July 2023.")
+{.r-stretch}
 
 {{% note %}}
-When you can have this!
+When you can have this!?
+
+After returning from camping, my doctor referred me to a plethora of specialists
 {{% /note %}}
 
 ---
-<style>
-    .reveal p {
-        font-size: 1em; !important;
-    }
-</style>
 
 <h3>Jeremy's "-gists"</h3>
 
@@ -513,15 +516,25 @@ When you can have this!
 
 
 {{% note %}}
-After returning, my doctor referred me to a plethora of specialists
+
 {{% /note %}}
 
 ---
 
->background-repeat: no-repeat;
+![excited-heathcare-team](/images/excited-care-team.jpeg "Image: HealthTimes")
+{.r-stretch}
 
 {{% note %}}
-I had blood drawn multiple times, was poked, prodded, got an endoscopy AND a colonoscopy at the same time (because I’m a ROCK STAR - you get the “geologist” joke now?), and all sorts of other tests to figure out what was wrong because there had to be a bleed somewhere to explain those test results. But there wasn’t. I didn’t have _any_ of the symptoms that normally came from severe iron-deficiency anemia. So the only thing was to continue consuming vast quantities of iron supplements and wait for the results to go up, and also to wait to get into the neuropsychologist. 
+I had blood drawn multiple times, was poked, prodded, got an endoscopy AND a colonoscopy at the same time (because I’m a ROCK STAR - you get the “geologist” joke now?), and all sorts of other tests to figure out what was wrong because there had to be a bleed somewhere to explain those test results. But there wasn’t.
+{{% /note %}}
+
+---
+
+![doctor-scrubs-what?](/images/doctor-scrubs-what.gif)
+{.r-stretch}
+
+{{% note %}}
+I didn’t have _any_ of the symptoms that normally came from severe iron-deficiency anemia. So the only thing was to continue consuming vast quantities of iron supplements and wait for the results to go up, and also to wait to get into the neuropsychologist. Which took almost 4 months.
 {{% /note %}}
 
 ---
@@ -674,15 +687,17 @@ My diagnosis of course wasn’t a surprise, because as I mentioned before, to my
 
 ---
 
-
+![homeschooling with your parent](/images/homeschool-with-parent.jpeg "Image: ThoughtCo")
+{.r-stretch}
 
 {{% note %}}
-But also, I was homeschooled and so for someone with ADHD, short classes, no homework, context switching, and time to either go outside or later get a job was a dream. The accommodations were baked in! Even my first few jobs were perfect for my neurodiverse brain. 
+But also, given I was homeschooled for someone with ADHD, the short classes, no homework, context switching, and time to either go outside or later get a job was a dream. The accommodations were baked in! Even my first few jobs were perfect for my neurodiverse brain. 
 {{% /note %}}
 
 ---
 
-
+![pastry-display](/images/pastry-shop.jpg "Image: Maria Orlova, Pexels")
+{.r-stretch}
 
 {{% note %}}
 For example, i remember fondly working at a bakery where I got to chat with a lot of senior citizens (the bakery was in an older, wealthy neighborhood) who were just thrilled to have someone express interest in the stories from back in the day. I loved hearing tales of the wagons going west, hot gossip from the neighborhood a which included things like how it was rumored the Donner party ate just a little too much for their own good.
@@ -694,7 +709,7 @@ For example, i remember fondly working at a bakery where I got to chat with a lo
 {.r-stretch}
 
 {{% note %}}
-Where was I. Oh right. ADHD diagnosis. It made sense looking back at my life. 
+Where was I. Oh right. ADHD diagnosis. It made sense looking back at my life. I was elated to get my diagnosis, 
 {{% /note %}}
 
 ---
@@ -703,7 +718,7 @@ Where was I. Oh right. ADHD diagnosis. It made sense looking back at my life.
 {.r-stretch}
 
 {{% note %}}
-I was elated to get my diagnosis, and also received a lot of this type of response:
+and also received a lot of this type of response:
 {{% /note %}}
 
 ---
@@ -711,7 +726,7 @@ I was elated to get my diagnosis, and also received a lot of this type of respon
 ![ADHD-wow](/images/adhd-wow.gif)
 
 {{% note %}}
-He suggested that I would benefit from some medication, and to get with my primary doctor to identify what would work best. I did, and the results were almost immediate. “THIS is how I’m supposed to feel? This is what being able to focus on something is supposed to look like? THIS is how all the normies functioned?”
+The doctor suggested that I would benefit from some medication, and to get with my primary doctor to identify what would work best. I did, and the results were almost immediate. “THIS is how I’m supposed to feel? This is what being able to focus on something is supposed to look like? THIS is how all the normies functioned?”
 {{% /note %}}
 
 ---
@@ -720,19 +735,20 @@ He suggested that I would benefit from some medication, and to get with my prima
 
 <p class="fragment" style="font-size: .75em;">1. Relate technical concepts to different groups of people</p>
 <p class="fragment" style="font-size: .75em;">2. Get a grasp of the latest and greatest technologies and concepts</p>
-<p class="fragment" style="font-size: .75em;">3. Step into the inherent “context-switching” that tech, and DevRel requires</p>
+<p class="fragment" style="font-size: .75em;">3. Step into inherent “context-switching” that tech & DevRel requires</p>
 
 {{% note %}}
 I began to realize for myself and my technology journey, how my ADHD had been extremely helpful:
 
 1. Relate technical concepts to different groups of people
 2. Get a grasp of the latest and greatest technologies and concepts
-3. Step into the inherent “context-switching” that tech, and DevRel requires
+3. Step into the inherent “context-switching” that tech & DevRel requires
 {{% /note %}}
 
 ---
 
-
+![how-to-adhd](/images/how-to-adhd.jpeg)
+{.r-stretch}
 
 {{% note %}}
 But that wasn’t enough. As I adjusted to the medication, and doing work and life and such, I kinda had to start all over with understanding how I functioned. I found myself being able to shift easily between different tasks as needed (which I always could - probably too easily), and then REMEMBERING to come back to the previous task (a NEW thing for me). However this also heightened my propensity to overwork and not take the breaks necessary.
@@ -740,7 +756,8 @@ But that wasn’t enough. As I adjusted to the medication, and doing work and li
 
 ---
 
-
+![who-you-are](/images/who-you-are.jpeg)
+{.r-stretch}
 
 {{% note %}}
 I also started going to therapy, which was an important thing for me to start to process and understand how my way of thinking and working (and also how my lack of thinking, working, and coping since 2020) was affecting me and those around me and my relationships with my family, my wife and kids. And to also understand deep down how that experience of being excluded in kickball, and then ripped away from what I knew without any explanation, had shaped me. And how I approached many different situations and communities and relationships with this thought
@@ -827,8 +844,25 @@ They even did a podcast with one of our speakers from yesterday afternoon, Ceora
 
 <p style="font-size: .75em;">1. Be open and tell your story.</p>
 <p style="font-size: .75em;">2. ADHD doesn’t have to hold you back.</p>
-<p class="fragment" style="font-size: .75em;">3. Cut yourself some slack.</p>
-<p class="fragment" style="font-size: .75em;">4. Talk to someone. Get help.</p>
+<p style="font-size: .75em;">3. Cut yourself some slack.</p>
+
+{{% note %}}
+
+{{% /note %}}
+
+---
+
+![it's ok - you're ok](/images/its-okay.jpeg)
+{.r-stretch}
+
+---
+
+### I say all this because...
+
+<p style="font-size: .75em;">1. Be open and tell your story.</p>
+<p style="font-size: .75em;">2. ADHD doesn’t have to hold you back.</p>
+<p style="font-size: .75em;">3. Cut yourself some slack.</p>
+<p style="font-size: .75em;">4. Talk to someone. Get help.</p>
 <p class="fragment" style="font-size: .75em;">5. There are resources available.</p>
 
 {{% note %}}
