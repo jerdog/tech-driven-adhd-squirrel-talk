@@ -303,15 +303,21 @@ I wasn’t diagnosed with ADHD then, because this was the early 80s, and my pare
 
 {{% note %}}
 So they started homeschooling me. Which dovetailed nicely with my obsession with tech and computers and reading and I excelled in that structure. Again, symptoms and attempted mitigation.
+
+Ok, back to Covid. 
 {{% /note %}}
 
 ---
+
+![camping in colorado](/images/camping.jpeg "Image: Jeremy & Wife's tent, Cold Springs Campground, Colorado 2016")
 
 {{% note %}}
-Ok, back to Covid. After over a year in lockdowns, a few of my buddies and I decided we needed to get away and were going to drive to Colorado and camp for 3 nights or so in early April. 
+Ok, back to Covid. After over a year in lockdowns, a few of my buddies and I decided we needed to get away and were going to drive to Colorado and camp for 3 nights or so in early April of 2021. 
 {{% /note %}}
 
 ---
+
+![adhd mental state](/images/adhd-mental-state.jpg "Image: Tara Winstead, Pexels")
 
 {{% note %}}
 Oh. So before that though, my mental state had been getting progressively worse - I know, some of you have only known me for the last year or so. You’re getting a completely different side of me _after_ medication. There are some of you _blessed_ to have known the pre-medicated Jeremy. 
@@ -328,11 +334,17 @@ Oh. So before that though, my mental state had been getting progressively worse 
 
 ---
 
+![covid brain fog](/images/covid-brain-fog.jpeg "Image: Medscape.com")
+{.r-stretch}
+
 {{% note %}}
 So where was I? Oh yeah, camping in Colorado and my mental state. No, before that, to the beginning of my talk. Ok. So Covid really did a number on so many people, in various ways.
 {{% /note %}}
 
 ---
+
+![happy-for-you-gif](/images/happy-for-you.gif)
+{.r-stretch}
 
 {{% note %}}
 During that first year of Covid lockdowns, many people I know, oddly a lot of them _in_ DevRel, found out and started posting that they had gotten diagnosed with ADHD and were in therapy, and I was so excited and happy for them that they had found that! I also said to myself, “It’s really odd that I’m not like them, isn’t it?”
@@ -340,11 +352,16 @@ During that first year of Covid lockdowns, many people I know, oddly a lot of th
 
 ---
 
+![jeremy-annoyed](/images/annoyed.gif)
+
 {{% note %}}
 So where were we? Oh yeah - my worsening mental state. I had begun noticing that I was more irritable with my family (well they informed me I was), I was losing my trains of thought, finding it really hard to focus, and even _not_ being able to find the words to say something even though it was _right there on the tip of my tongue_.
 {{% /note %}}
 
 ---
+
+![see-a-doctor](/images/see-a-doctor.gif)
+{.r-stretch}
 
 {{% note %}}
 Finally, I got concerned, and went to my doctor in May of 2021. I told her what I was experiencing, and she of course mentioned it could be any number of things, but they would do some blood tests and then go from there. I heard back from the doctor later that day as I was finalizing my camping trip to Colorado. 
@@ -416,22 +433,28 @@ Finally, I got concerned, and went to my doctor in May of 2021. I told her what 
 </table>
 
 {{% note %}}
-The nurse gave me these results, and then told me I had iron-deficiency anemia, to get on high doses of Iron, and they needed me to come in for some more tests the next week before they identified next steps. 
+The nurse gave me these results, and then told me I had iron-deficiency anemia, to get on high doses of Iron, and they needed me to come in for some more tests the next week before they identified next steps. I said, “Ok. Good to know. So I’m leaving for a camping trip in the mountains of Colorado, and will be gone. Can we wait a week?” And her response, almost verbatim, was,
 {{% /note %}}
 
 ---
+
+![yeah-nope](/images/yeah-no.jpeg "Image: Crazy Dog T-Shirts")
 
 {{% note %}}
-I said, “Ok. Good to know. So I’m leaving for a camping trip in the mountains of Colorado, and will be gone. Can we wait a week?” And her response, almost verbatim, was, “You should not go to Colorado. You will end up in the hospital.”
+ “You should not go to Colorado. You will end up in the hospital.”
 {{% /note %}}
 
 ---
+
+![jeremy-on-a-mountain-top](/images/mountain-view.jpeg "Image: Jeremy at Alice-Toxaway Divide, Idaho, 2023.")
 
 {{% note %}}
 Now let me tell you about me and mountains. They are my happy place. I grew up in the flatlands (Kansas), and my only experience with “mountains” was the Appalachians and the Great Smoky Mountains in the East. I never saw real mountains in person, and really never traveled further west than Sydney, NE, until 1998 when I traveled with some friends to a college conference in Denver, Colorado. 
 {{% /note %}}
 
 ---
+
+![mount-elbert-colorado](/images/mount-elbert.jpeg "Image: Jeremy and Wife, Mount Elbert, CO, 14,439 feet.")
 
 {{% note %}}
 I was in complete, and total awe. I was hooked. Over the last 25 years I’ve traveled West more than East, and seen more mountains than I had previously thought possible, hiked quite a few, and even had the privilege of hiking the highest mountain in the American Rockies, Mount Elbert, outside Leadville, Colorado with my wife.
@@ -615,7 +638,7 @@ Women are less likely to outgrow ADHD. About 60% of women have ADHD that continu
 Males and females also show different patterns of comorbidity, which is when another condition occurs alongside ADHD. 
 **Males are more likely** to have externalizing disorders, such as:
 **females are more likely** to have internalizing disorders, such as:
-Quantitative assessments still focus on external behaviors that interfere with other people. But most women struggle with an internalized sense of impairment that affects their sense of self and qualitative life management skills.
+Quantitative assessments still focus on external behaviors that interfere with other people. But most women struggle with an internalized sense of impairment that affects their sense of self and qualitative life management skills. Men generally lack this sense of impairment, and automatically assume they're doing _just fine_
 {{% /note %}}
 
 ---
