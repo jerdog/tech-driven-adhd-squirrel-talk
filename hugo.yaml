@@ -27,10 +27,10 @@ params:
     left: '80%'
     width: '15%'
   logo-btm-left:
-    src: ''
-    top: '85%'
+    src: '/images/connecttech-logo.png'
+    top: '87%'
     left: '5%'
-    width: '10%'
+    width: '5%'
     opacity: '0.5'
   appearance:
     font: 'Open Sans'
