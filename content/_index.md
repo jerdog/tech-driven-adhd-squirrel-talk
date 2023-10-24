@@ -811,8 +811,18 @@ He helped me to start to recognize when that happened and to identify what I was
 
 ### I say all this because...
 
-<p class="fragment" style="font-size: .75em;">1. Be open, honest, and tell your story.</p>
-<p class="fragment" style="font-size: .75em;">2. ADHD doesn’t have to hold you back.</p>
+<p class="fragment" style="font-size: .75em;">1. Cut yourself some slack.</p>
+
+---
+
+![it's ok - you're ok](/images/its-okay.jpeg)
+{.r-stretch}
+
+---
+
+<p style="font-size: .75em;">1. Cut yourself some slack.</p>
+<p style="font-size: .75em;">2. Be open and tell your story.</p>
+<p class="fragment" style="font-size: .75em;">3. ADHD doesn’t have to hold you back.</p>
 
 {{% note %}}
 So I tell all of this to you, for the following reasons. 
@@ -842,26 +852,9 @@ They even did a podcast with one of our speakers from yesterday afternoon, Ceora
 
 ### I say all this because...
 
-<p style="font-size: .75em;">1. Be open and tell your story.</p>
-<p style="font-size: .75em;">2. ADHD doesn’t have to hold you back.</p>
-<p style="font-size: .75em;">3. Cut yourself some slack.</p>
-
-{{% note %}}
-
-{{% /note %}}
-
----
-
-![it's ok - you're ok](/images/its-okay.jpeg)
-{.r-stretch}
-
----
-
-### I say all this because...
-
-<p style="font-size: .75em;">1. Be open and tell your story.</p>
-<p style="font-size: .75em;">2. ADHD doesn’t have to hold you back.</p>
-<p style="font-size: .75em;">3. Cut yourself some slack.</p>
+<p style="font-size: .75em;">1. Cut yourself some slack.</p>
+<p style="font-size: .75em;">2. Be open and tell your story.</p>
+<p style="font-size: .75em;">3. ADHD doesn’t have to hold you back.</p>
 <p style="font-size: .75em;">4. Talk to someone. Get help.</p>
 <p class="fragment" style="font-size: .75em;">5. There are resources available.</p>
 
@@ -989,7 +982,7 @@ John makes a very good point here that just taking pills is not going to help yo
 {{% /note %}}
 
 ---
-{{% tweet user="IAmJererinmikaildog" id="1711484556153372684" %}}
+{{% tweet user="erinmikail" id="1711484556153372684" %}}
 
 {{% note %}}
 Erin has a number of things she uses, like occupational therapy to help with routines and ways of working, medication, paper and planners, embracing the sweet sound of the alarm, and utilize the calendar for everything!
@@ -1007,9 +1000,9 @@ Hussein brings up that it's ok to embrace those "sprints" of hen you get super, 
 
 ### Quick Review
 
-<p style="font-size: .75em;">1. Be open, honest, and tell your story.</p>
-<p style="font-size: .75em;">2. ADHD doesn’t have to hold you back.</p>
-<p style="font-size: .75em;">3. Cut yourself some slack.</p>
+<p style="font-size: .75em;">1. Cut yourself some slack.</p>
+<p style="font-size: .75em;">2. Be open and tell your story.</p>
+<p style="font-size: .75em;">3. ADHD doesn’t have to hold you back.</p>
 <p style="font-size: .75em;">4. Talk to someone. Get help.</p>
 <p style="font-size: .75em;">5. There are resources available.</p>
 
