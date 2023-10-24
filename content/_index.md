@@ -820,6 +820,8 @@ He helped me to start to recognize when that happened and to identify what I was
 
 ---
 
+### I say all this because...
+
 <p style="font-size: .75em;">1. Cut yourself some slack.</p>
 <p style="font-size: .75em;">2. Be open and tell your story.</p>
 <p class="fragment" style="font-size: .75em;">3. ADHD doesn’t have to hold you back.</p>
