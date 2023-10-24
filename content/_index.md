@@ -596,7 +596,8 @@ There are three subtypes of ADHD: inattentive, hyperactive/impulsive and mixed. 
 <li style="font-size: 0.6em;"><strong>Less available research:</strong> with ≠ sample sizes, AFAB rarely included</li>
 <li style="font-size: 0.6em;"><strong>Inattention symptoms occur later:</strong> seen in structured environments, i.e. college</li>
 
-***Source: CHADD.org, Healthline.com***
+***Source: CHADD.org, Healthline.com***  
+*Included courtesy of Floor Drees, [@DevOpsBarbie](https://twitter.com/DevOpsBarbie)*
 
 {{% note %}}
 With **more common symptoms** more visible in men/boys, they get diagnosed more often. And those behaviors are often considered more socially acceptable for them, and so women suppress or hide theirs to fit in better, and don't get diagnosed. **Bias:** 
@@ -611,7 +612,8 @@ With **more common symptoms** more visible in men/boys, they get diagnosed more 
 * 60% vs 30% have ADHD continuing into adulthood
 * People who "outgrow" usually still have symptoms
 
-***Source: NIH.gov, PsychCentral.com***
+***Source: NIH.gov, PsychCentral.com***  
+*Included courtesy of Floor Drees, [@DevOpsBarbie](https://twitter.com/DevOpsBarbie)*
 
 {{% note %}}
 Women are less likely to outgrow ADHD. About 60% of women have ADHD that continues into adulthood, compared with about 30% of men. People who “outgrow” it usually still have some symptoms, but the symptoms eventually aren’t severe enough to meet the criteria for diagnosis.
@@ -644,7 +646,8 @@ Women are less likely to outgrow ADHD. About 60% of women have ADHD that continu
         </td>
     </tr>
 </table>
-<p style="font-style: italic;">Source: Medical News Today</p>
+<p style="font-style: italic; font-weight: bold;">Source: Medical News Today</p>
+<p style="font-style: italic;">Included courtesy of Floor Drees, <a href="https://twitter.com/DevOpsBarbie">@DevOpsBarbie</a></p>
 </section>
 
 {{% note %}}
@@ -671,6 +674,8 @@ As a result, Cis women with ADHD often are distracted from own self-care
   - OR, may self-medicate with alcohol or drugs
 
 *Source: WebMD, NIH.gov, ADDitudemag.com*
+*Included courtesy of Floor Drees, [@DevOpsBarbie](https://twitter.com/DevOpsBarbie)*
+
 
 {{% note %}}
 Women are often misdiagnosed and treated for anxiety and mood disorders as primary diagnoses. 
