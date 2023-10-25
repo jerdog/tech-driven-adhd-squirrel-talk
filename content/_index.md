@@ -97,6 +97,8 @@ The only real contact was with people you requested to come to your home to drop
 
 {{% note %}}
 I am a child of the mid-70s. That means, I grew up knowing about (and using) all of these things. It just seemed that for me, and many of my generation, that we took to technology so easily.
+
+There wasn’t a lot I could focus on, but reading - man that was something I could do for hours, and days, on end. I read everything I could get my hands on. 
 {{% /note %}}
 
 ---
@@ -105,7 +107,7 @@ I am a child of the mid-70s. That means, I grew up knowing about (and using) all
 {.r-stretch}
 
 {{% note %}}
-There wasn’t a lot I could focus on, but reading - man that was something I could do for hours, and days, on end. I read everything I could get my hands on. In 1984 Pizza Hut started this summer reading campaign called BOOK IT where you would read a certain number of books and then get a free personal pan pizza. I ate so much pizza that year, and many summers after. I’m not saying that Pizza Hut ignited my desire to read, but I’m not _not_ saying it either.
+In 1984 Pizza Hut started this summer reading campaign called BOOK IT where you would read a certain number of books and then get a free personal pan pizza. I ate so much pizza that year, and many summers after. I’m not saying that Pizza Hut ignited my desire to read, but I’m not _not_ saying it either.
 {{% /note %}}
 
 ---
@@ -128,6 +130,31 @@ Computers. That was another thing I could mess around with for hours on end. My 
 
 ---
 
+![radio shack BASIC](/images/radio-shack-BASIC-book.jpg "&copy; 1977 Radio Shack")
+{.r-stretch}
+
+---
+
+![hobby computer book](/images/hobby-computer-book.webp "Hobby Computer Handbook, Fall/Winter 1979 and 1980 editions")
+{.r-stretch}
+
+---
+
+<img src="/images/smalltalk-80.jpeg" alt="Goldberg, Adele (December 1983). Smalltalk-80">
+<p style="font-size:0.50em;">Image: Goldberg, Adele (December 1983). Smalltalk-80: The Language and its Implementation. Addison-Wesley. ISBN 978-0-201-11371-6.</p>
+
+---
+
+<img src="/images/lotus-123.jpeg" alt="Lotus 1/2/3 for the IBM PC, Plume, 1984">
+<p style="font-size:0.50em;">Lotus 1/2/3 for the IBM PC, Plume, 1984</p>
+
+
+{{% note %}}
+Riveting stuff, amirite?
+{{% /note %}}
+
+---
+
 <section>
     <div class="multiCol">
         <div class="col">
@@ -144,11 +171,10 @@ Computers. That was another thing I could mess around with for hours on end. My 
             </ul>
         </div>
     </div>
-</section>
-
-{{% note %}}
+<aside class="notes">
 I was hooked and messed around with them as often as I could, wherever I could. In the early 1980s my uncle worked for a company that provided IT services to the US Government in the early 80s, and let me mess around and borrow these just about as often as I wanted:
-{{% /note %}}
+</aside>
+</section>
 
 ---
 
@@ -174,18 +200,10 @@ I was hooked and messed around with them as often as I could, wherever I could. 
     </div>
 </section>
 
-{{% note %}}
-
-{{% /note %}}
-
 ---
 
 <img src="/images/compaq-plus-newspaper.jpeg" width="80%">
 <figcaption style="font-size: .40em;font-style: italic;">Image: &copy; Computerworld Dec 1983</figcaption>
-
-{{% note %}}
-
-{{% /note %}}
 
 ---
 
@@ -194,7 +212,7 @@ I was hooked and messed around with them as often as I could, wherever I could. 
 {{% /fragment %}}
 
 {{% note %}}
-When I was about 8 I was privileged to get a computer from that same uncle, that had previously been thrown out by the Government, because each year they had to replace things or else they wouldn’t get the budget renewed.
+When I was about 8 I was privileged to get a computer from that same uncle, that had previously been thrown out by the Government, because each year they had to replace things or else they wouldn’t get the budget renewed. So, since he worked for a government IT contractor, he just started stockpiling these “old”, thrown out machines, and gave me one like this 
 {{% /note %}}
 
 ---
@@ -220,11 +238,10 @@ When I was about 8 I was privileged to get a computer from that same uncle, that
             </ul>
         </div>
     </div>
+<aside class="notes">
+...around 1984 or so. It weighed 32lb, so that Compaq Portable Plus truly was portable.
+</aside>
 </section>
-
-{{% note %}}
-So, since he worked for a government IT contractor, he just started stockpiling these “old”, thrown out machines, and gave me one like this around 1984 or so. It weighed 32lb, so that Compaq Portable Plus truly was portable.
-{{% /note %}}
 
 ---
 
@@ -338,7 +355,7 @@ Oh. So before that though, my mental state had been getting progressively worse 
 {.r-stretch}
 
 {{% note %}}
-So where was I? Oh yeah, camping in Colorado and my mental state. No, before that, to the beginning of my talk. Ok. So Covid really did a number on so many people, in various ways.
+So where was I? Oh yeah, camping in Colorado and my mental state. No, before that, to the beginning of my talk. Ok. So Covid really did a number on so many people, in various ways. During that first year of Covid lockdowns, many people I know, oddly a lot of them _in_ DevRel, found out and started posting that they had gotten diagnosed with ADHD and were in therapy, 
 {{% /note %}}
 
 ---
@@ -347,7 +364,7 @@ So where was I? Oh yeah, camping in Colorado and my mental state. No, before tha
 {.r-stretch}
 
 {{% note %}}
-During that first year of Covid lockdowns, many people I know, oddly a lot of them _in_ DevRel, found out and started posting that they had gotten diagnosed with ADHD and were in therapy, and I was so excited and happy for them that they had found that! I also said to myself, “It’s really odd that I’m not like them, isn’t it?”
+and I was so excited and happy for them that they had found that! I also said to myself, “It’s really odd that I’m not like them, isn’t it?”
 {{% /note %}}
 
 ---
@@ -365,6 +382,65 @@ So where were we? Oh yeah - my worsening mental state. I had begun noticing that
 
 {{% note %}}
 Finally, I got concerned, and went to my doctor in May of 2021. I told her what I was experiencing, and she of course mentioned it could be any number of things, but they would do some blood tests and then go from there. I heard back from the doctor later that day as I was finalizing my camping trip to Colorado. 
+{{% /note %}}
+
+---
+
+<table class="table table-bordered .r-stretch" bgcolor="white" style="color: black;">
+    <thead>
+        <th>Lab test</th>
+        <th>May 2021</th>
+        <th>Ref Range</th>
+    </thead>
+    <tr>
+        <td style="font-weight: bolder;">RBC<br/><font style="font-size: .7em; font-style: italic;">Red blood count</font></td>
+        <td style="font-weight: bold;"><font style="color: red;">4</font></td>
+        <td>(4.5-6.5)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">WBC<br/><font style="font-size: .7em; font-style: italic;">White blood count</font></td>
+        <td style="font-weight: bold;"><font style="color: red;">3.7</font></td>
+        <td>(4-11)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">MCV<br/><font style="font-size: .7em; font-style: italic;"></td>
+        <td style="font-weight: bold;"><font style="color: red;">71</font></td>
+        <td>(81-99)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">MCHC<br/></td>
+        <td style="font-weight: bold;"><font style="color: red;">27</font></td>
+        <td>(30-36)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">MCH<br/></td>
+        <td style="font-weight: bold;"><font style="color: red;">19</font></td>
+        <td>(27-34)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">Hgb<br/></td>
+        <td style="font-weight: bold;"><font style="color: red;">7.7</font></td>
+        <td>(13.5-18)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">Hct<br/></td>
+        <td style="font-weight: bold;"><font style="color: red;">28%</font></td>
+        <td>(40-52%)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">Iron sat</td>
+        <td style="font-weight: bold;"><font style="color: red;">3%</font></td>
+        <td>(15-50%)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">Iron</td>
+        <td style="font-weight: bold;"><font style="color: red;">17</font></td>
+        <td>(59-158)</td>
+    </tr>
+</table>
+
+{{% note %}}
+The nurse gave me these results, and then told me I had iron-deficiency anemia, to get on high doses of Iron, and they needed me to come in for some more tests the next week before they identified next steps. I said, “Ok. Good to know. So I’m leaving for a camping trip in the mountains of Colorado, and will be gone. Can we wait a week?” And her response, almost verbatim, was,
 {{% /note %}}
 
 ---
@@ -433,7 +509,7 @@ Finally, I got concerned, and went to my doctor in May of 2021. I told her what 
 </table>
 
 {{% note %}}
-The nurse gave me these results, and then told me I had iron-deficiency anemia, to get on high doses of Iron, and they needed me to come in for some more tests the next week before they identified next steps. I said, “Ok. Good to know. So I’m leaving for a camping trip in the mountains of Colorado, and will be gone. Can we wait a week?” And her response, almost verbatim, was,
+
 {{% /note %}}
 
 ---
@@ -455,11 +531,29 @@ Now let me tell you about me and mountains. They are my happy place. I grew up i
 
 ---
 
+![mountains1](/images/mountains1.jpeg)
+{.r-stretch}
+
+{{% note %}}
+I was in complete, and total awe. I was hooked. Over the last 25 years 
+{{% /note %}}
+
+---
+
+![mountains2](/images/mountains2.jpeg)
+{.r-stretch}
+
+{{% note %}}
+I’ve traveled West more than East, and seen more mountains than I had previously thought possible, hiked quite a few, 
+{{% /note %}}
+
+---
+
 ![mount-elbert-colorado](/images/mount-elbert.jpeg "Image: Jeremy and Wife, Mount Elbert, CO, 14,439 feet.")
 {.r-stretch}
 
 {{% note %}}
-I was in complete, and total awe. I was hooked. Over the last 25 years I’ve traveled West more than East, and seen more mountains than I had previously thought possible, hiked quite a few, and even had the privilege of hiking the highest mountain in the American Rockies, Mount Elbert, outside Leadville, Colorado with my wife.
+and even had the privilege of hiking the highest mountain in the American Rockies, Mount Elbert, outside Leadville, Colorado with my wife.
 {{% /note %}}
 
 ---
@@ -601,7 +695,7 @@ There are three subtypes of ADHD: inattentive, hyperactive/impulsive and mixed. 
 
 {{% note %}}
 With **more common symptoms** more visible in men/boys, they get diagnosed more often. And those behaviors are often considered more socially acceptable for them, and so women suppress or hide theirs to fit in better, and don't get diagnosed. **Bias:** 
-**Research:** We know most studies don't take equal sample sizes, if they include afabs at all.
+**Research:** We know most studies don't take equal sample sizes, if they include those Assigned Feminine at Birth at all.
 **Inattention symptoms in females** with ADHD are more likely to occur in structured educational environments, such as college, which may delay the diagnosis.
 {{% /note %}}
 
