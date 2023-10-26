@@ -151,7 +151,7 @@ Computers. That was another thing I could mess around with for hours on end. My 
 
 {{% note %}}
 Riveting stuff, amirite?
-I was hooked and messed around with them as often as I could, wherever I could. In the early 1980s my uncle worked for a company that provided IT services to the US Government in the early 80s, 
+I was hooked and messed around with them as often as I could, wherever I could. In the early 1980s my uncle worked for a company that provided IT services to the US Government in the early 80s, and let me mess around and borrow these just about as often as I wanted. 
 {{% /note %}}
 
 ---
@@ -173,7 +173,7 @@ I was hooked and messed around with them as often as I could, wherever I could. 
         </div>
     </div>
 <aside class="notes">
-and let me mess around and borrow these just about as often as I wanted:
+These Kaypro's were pretty cool with their dual single-sided floppy drives, where one ran the OS and the other ran the application.
 </aside>
 </section>
 
@@ -199,6 +199,9 @@ and let me mess around and borrow these just about as often as I wanted:
             </ul>
         </div>
     </div>
+<aside class="notes">
+This Compaq Portable Plus was an even cooler machine, and at 28 pounds was truly portable. It had a handle on the top, and the keyboard attached to the top of the machine.
+</aside>
 </section>
 
 ---
@@ -207,7 +210,7 @@ and let me mess around and borrow these just about as often as I wanted:
 <figcaption style="font-size: .40em;font-style: italic;">Image: &copy; Computerworld Dec 1983</figcaption>
 
 {{% note %}}
-When I was about 8 I was privileged to get a computer from that same uncle, that had previously been thrown out by the Government, 
+I eventually was privileged to get a computer from that same uncle, that had previously been thrown out by the Government, 
 {{% /note %}}
 
 ---
@@ -242,7 +245,7 @@ because each year they had to replace things or else they wouldn’t get the bud
         </div>
     </div>
 <aside class="notes">
-...around 1984 or so. It weighed 32lb, so that Compaq Portable Plus truly was portable. That love for computers, and trying everything I would read, led me to start typing things in without really reading the rest of the book. I would just type odd commands in that I found in the book _just_to see what was going to happen. 
+...in the mid 1980s. It weighed 32lb, so that Compaq Portable Plus truly was portable. That love for computers, and trying everything I would read, led me to start typing things in without really reading the rest of the book. I would just type odd commands in that I found in the book _just_to see what was going to happen. 
 </aside>
 </section>
 
@@ -338,7 +341,7 @@ Ok, back to Covid.
 ![camping in colorado](/images/camping.jpeg "Image: Jeremy & Wife's tent, Cold Springs Campground, Colorado 2016")
 
 {{% note %}}
-Ok, back to Covid. After over a year in lockdowns, a few of my buddies and I decided we needed to get away and were going to drive to Colorado and camp for 3 nights or so in early April of 2021. 
+Ok, back to Covid. After over a year in lockdowns, a few of my buddies and I decided we needed to get away and were going to drive to Colorado and camp for 3 nights or so in early May of 2021. 
 {{% /note %}}
 
 ---
@@ -456,80 +459,10 @@ The nurse gave me these results, and then told me I had iron-deficiency anemia, 
 
 ---
 
-<table class="table table-bordered .r-stretch" bgcolor="white" style="color: black;">
-    <thead>
-        <th>Lab test</th>
-        <th>May 2021</th>
-        <th>Ref Range</th>
-        <th>Apr 2023</th>
-    </thead>
-    <tr>
-        <td style="font-weight: bolder;">RBC<br/><font style="font-size: .7em; font-style: italic;">Red blood count</font></td>
-        <td style="font-weight: bold;"><font style="color: red;">4</font></td>
-        <td>(4.5-6.5)</td>
-        <td><font style="color: green;">5.29</font></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bolder;">WBC<br/><font style="font-size: .7em; font-style: italic;">White blood count</font></td>
-        <td style="font-weight: bold;"><font style="color: red;">3.7</font></td>
-        <td>(4-11)</td>
-        <td><font style="color: green;">5.74</font></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bolder;">MCV<br/><font style="font-size: .7em; font-style: italic;"></td>
-        <td style="font-weight: bold;"><font style="color: red;">71</font></td>
-        <td>(81-99)</td>
-        <td><font style="color: green;">89</font></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bolder;">MCHC<br/></td>
-        <td style="font-weight: bold;"><font style="color: red;">27</font></td>
-        <td>(30-36)</td>
-        <td><font style="color: green;">33.3</font></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bolder;">MCH<br/></td>
-        <td style="font-weight: bold;"><font style="color: red;">19</font></td>
-        <td>(27-34)</td>
-        <td><font style="color: green;">29.7</font></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bolder;">Hgb<br/></td>
-        <td style="font-weight: bold;"><font style="color: red;">7.7</font></td>
-        <td>(13.5-18)</td>
-        <td><font style="color: green;">15.7</font></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bolder;">Hct<br/></td>
-        <td style="font-weight: bold;"><font style="color: red;">28%</font></td>
-        <td>(40-52%)</td>
-        <td><font style="color: green;">47.1%</font></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bolder;">Iron sat</td>
-        <td style="font-weight: bold;"><font style="color: red;">3%</font></td>
-        <td>(15-50%)</td>
-        <td><font style="color: green;">28%</font></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bolder;">Iron</td>
-        <td style="font-weight: bold;"><font style="color: red;">17</font></td>
-        <td>(59-158)</td>
-        <td><font style="color: green;">120</font></td>
-    </tr>
-</table>
-
-{{% note %}}
-Now after a few months I was able to get all of these levels up, and they've stayed up.
-So I told the nurse, “Ok. Good to know. So I’m leaving for a camping trip in the mountains of Colorado, and will be gone. Can we wait a week?” And her response, almost verbatim, was,
-{{% /note %}}
-
----
-
 ![yeah-nope](/images/yeah-no.jpeg "Image: Crazy Dog T-Shirts")
 
 {{% note %}}
- “You should not go to Colorado. You will end up in the hospital.”
+So I told the nurse, “Ok. Good to know. So I’m leaving for a camping trip in the mountains of Colorado, and will be gone. Can we wait a week?” And her response, almost verbatim, was, “You should not go to Colorado. You will end up in the hospital.”
 {{% /note %}}
 
 ---
@@ -640,7 +573,77 @@ I had blood drawn multiple times, was poked, prodded, got an endoscopy AND a col
 {.r-stretch}
 
 {{% note %}}
-I didn’t have _any_ of the symptoms that normally came from severe iron-deficiency anemia. So the only thing was to continue consuming vast quantities of iron supplements and wait for the results to go up, and also to wait to get into the neuropsychologist. Which took almost 4 months.
+I didn’t have _any_ of the symptoms that normally came from severe iron-deficiency anemia. So the only thing was to continue consuming vast quantities of iron supplements and wait for the results to go up, 
+{{% /note %}}
+
+---
+
+<table class="table table-bordered .r-stretch" bgcolor="white" style="color: black;">
+    <thead>
+        <th>Lab test</th>
+        <th>May 2021</th>
+        <th>Ref Range</th>
+        <th>Apr 2023</th>
+    </thead>
+    <tr>
+        <td style="font-weight: bolder;">RBC<br/><font style="font-size: .7em; font-style: italic;">Red blood count</font></td>
+        <td style="font-weight: bold;"><font style="color: red;">4</font></td>
+        <td>(4.5-6.5)</td>
+        <td><font style="color: green;">5.29</font></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">WBC<br/><font style="font-size: .7em; font-style: italic;">White blood count</font></td>
+        <td style="font-weight: bold;"><font style="color: red;">3.7</font></td>
+        <td>(4-11)</td>
+        <td><font style="color: green;">5.74</font></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">MCV<br/><font style="font-size: .7em; font-style: italic;"></td>
+        <td style="font-weight: bold;"><font style="color: red;">71</font></td>
+        <td>(81-99)</td>
+        <td><font style="color: green;">89</font></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">MCHC<br/></td>
+        <td style="font-weight: bold;"><font style="color: red;">27</font></td>
+        <td>(30-36)</td>
+        <td><font style="color: green;">33.3</font></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">MCH<br/></td>
+        <td style="font-weight: bold;"><font style="color: red;">19</font></td>
+        <td>(27-34)</td>
+        <td><font style="color: green;">29.7</font></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">Hgb<br/></td>
+        <td style="font-weight: bold;"><font style="color: red;">7.7</font></td>
+        <td>(13.5-18)</td>
+        <td><font style="color: green;">15.7</font></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">Hct<br/></td>
+        <td style="font-weight: bold;"><font style="color: red;">28%</font></td>
+        <td>(40-52%)</td>
+        <td><font style="color: green;">47.1%</font></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">Iron sat</td>
+        <td style="font-weight: bold;"><font style="color: red;">3%</font></td>
+        <td>(15-50%)</td>
+        <td><font style="color: green;">28%</font></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">Iron</td>
+        <td style="font-weight: bold;"><font style="color: red;">17</font></td>
+        <td>(59-158)</td>
+        <td><font style="color: green;">120</font></td>
+    </tr>
+</table>
+
+{{% note %}}
+Now after a few months I was able to get all of these levels up, and they've stayed up. And the next step was to wait to get into the neuropsychologist.
+
 {{% /note %}}
 
 ---
@@ -653,7 +656,7 @@ I didn’t have _any_ of the symptoms that normally came from severe iron-defici
 {.r-stretch}
 
 {{% note %}}
-Eventually I did get a meeting with the neuropsychologist, and then took the tests, and after about a month I came back in and was informed that yes, I did have ADHD, and that I likely was undiagnosed as a child. 
+Eventually I did get a meeting with the neuropsychologist, after about a 6 month wait, and took the tests, and after about a month I came back in and was informed that yes, I did have ADHD, and that I likely was undiagnosed as a child. 
 {{% /note %}}
 
 ---
