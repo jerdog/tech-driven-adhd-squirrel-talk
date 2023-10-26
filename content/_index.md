@@ -151,6 +151,7 @@ Computers. That was another thing I could mess around with for hours on end. My 
 
 {{% note %}}
 Riveting stuff, amirite?
+I was hooked and messed around with them as often as I could, wherever I could. In the early 1980s my uncle worked for a company that provided IT services to the US Government in the early 80s, 
 {{% /note %}}
 
 ---
@@ -172,7 +173,7 @@ Riveting stuff, amirite?
         </div>
     </div>
 <aside class="notes">
-I was hooked and messed around with them as often as I could, wherever I could. In the early 1980s my uncle worked for a company that provided IT services to the US Government in the early 80s, and let me mess around and borrow these just about as often as I wanted:
+and let me mess around and borrow these just about as often as I wanted:
 </aside>
 </section>
 
@@ -205,14 +206,16 @@ I was hooked and messed around with them as often as I could, wherever I could. 
 <img src="/images/compaq-plus-newspaper.jpeg" width="80%">
 <figcaption style="font-size: .40em;font-style: italic;">Image: &copy; Computerworld Dec 1983</figcaption>
 
+{{% note %}}
+When I was about 8 I was privileged to get a computer from that same uncle, that had previously been thrown out by the Government, 
+{{% /note %}}
+
 ---
 
-{{% fragment %}}
 ![history of government spending since 1901](/images/history-gov-spending.jpeg "Image: Higher Rock Education")
-{{% /fragment %}}
 
 {{% note %}}
-When I was about 8 I was privileged to get a computer from that same uncle, that had previously been thrown out by the Government, because each year they had to replace things or else they wouldn’t get the budget renewed. So, since he worked for a government IT contractor, he just started stockpiling these “old”, thrown out machines, and gave me one like this 
+because each year they had to replace things or else they wouldn’t get the budget renewed. So, since he worked for a government IT contractor, he just started stockpiling these “old”, thrown out machines, and gave me one like this 
 {{% /note %}}
 
 ---
@@ -239,16 +242,16 @@ When I was about 8 I was privileged to get a computer from that same uncle, that
         </div>
     </div>
 <aside class="notes">
-...around 1984 or so. It weighed 32lb, so that Compaq Portable Plus truly was portable.
+...around 1984 or so. It weighed 32lb, so that Compaq Portable Plus truly was portable. That love for computers, and trying everything I would read, led me to start typing things in without really reading the rest of the book. I would just type odd commands in that I found in the book _just_to see what was going to happen. 
 </aside>
 </section>
 
 ---
 
-{{% fragment %}}<font style="font-family: monospace; color: green;">del /f /s /q /a:rsh *.*</font>{{% /fragment %}}
+<h3 style="font-family: monospace; color: green;">del /f /s /q /a:rsh *.*</h3>
 
 {{% note %}}
-That love for computers, and trying everything I would read, led me to start typing things in without really reading the rest of the book. I would just type odd commands in that I found in the book _just_to see what was going to happen. Anyone know what this is gonna do?
+Anyone know what this is gonna do?
 {{% /note %}}
 
 ---
@@ -303,6 +306,12 @@ No, it’s the story of the first half of my 3rd grade year when we would play k
 {{% note %}}
 And then after Winter break, suddenly I was told I wasn’t on their team, had never been on their team, and why would they have me, a kid with glasses, on their kickball team? I was devastated. And this repeated itself for weeks, until I finally stopped asking. And found something else to play. How many of you ever tried playing tetherball by yourself?
 {{% /note %}}
+
+
+---
+
+![napoleon tetherball](/images/lone-tetherball.gif)
+{.r-stretch}
 
 ---
 
@@ -364,7 +373,9 @@ So where was I? Oh yeah, camping in Colorado and my mental state. No, before tha
 {.r-stretch}
 
 {{% note %}}
-and I was so excited and happy for them that they had found that! I also said to myself, “It’s really odd that I’m not like them, isn’t it?”
+and I was so excited and happy for them that they had found that! I also said to myself, “It’s really odd that I’m not like them, isn’t it?” 
+
+So where were we? Oh yeah - 
 {{% /note %}}
 
 ---
@@ -372,7 +383,7 @@ and I was so excited and happy for them that they had found that! I also said to
 ![jeremy-annoyed](/images/annoyed.gif)
 
 {{% note %}}
-So where were we? Oh yeah - my worsening mental state. I had begun noticing that I was more irritable with my family (well they informed me I was), I was losing my trains of thought, finding it really hard to focus, and even _not_ being able to find the words to say something even though it was _right there on the tip of my tongue_.
+my worsening mental state. I had begun noticing that I was more irritable with my family (well they informed me I was), I was losing my trains of thought, finding it really hard to focus, and even _not_ being able to find the words to say something even though it was _right there on the tip of my tongue_.
 {{% /note %}}
 
 ---
@@ -440,7 +451,7 @@ Finally, I got concerned, and went to my doctor in May of 2021. I told her what 
 </table>
 
 {{% note %}}
-The nurse gave me these results, and then told me I had iron-deficiency anemia, to get on high doses of Iron, and they needed me to come in for some more tests the next week before they identified next steps. I said, “Ok. Good to know. So I’m leaving for a camping trip in the mountains of Colorado, and will be gone. Can we wait a week?” And her response, almost verbatim, was,
+The nurse gave me these results, and then told me I had iron-deficiency anemia, to get on high doses of Iron, and come in for some more tests in a few days to then identify next steps. Now, again, I'm not a doctor, but I do know _now_ that these results were not good. Like at all. Red blood cells carry hemoglobin which carries oxygen in the blood, and dictate how much oxygen your body tissue gets. WBC help your immune system fight infection. All of which are only slightly important during a certain pandemic.
 {{% /note %}}
 
 ---
@@ -509,7 +520,8 @@ The nurse gave me these results, and then told me I had iron-deficiency anemia, 
 </table>
 
 {{% note %}}
-
+Now after a few months I was able to get all of these levels up, and they've stayed up.
+So I told the nurse, “Ok. Good to know. So I’m leaving for a camping trip in the mountains of Colorado, and will be gone. Can we wait a week?” And her response, almost verbatim, was,
 {{% /note %}}
 
 ---
@@ -553,7 +565,7 @@ I’ve traveled West more than East, and seen more mountains than I had previous
 {.r-stretch}
 
 {{% note %}}
-and even had the privilege of hiking the highest mountain in the American Rockies, Mount Elbert, outside Leadville, Colorado with my wife.
+and even had the privilege of hiking the highest mountain in the American Rockies, Mount Elbert, outside Leadville, Colorado with my wife. I’ve probably taken more pictures of mountains than people in the last 10 to 15 years, or at least my pictures have a lot more mountains in them than not. 
 {{% /note %}}
 
 ---
@@ -562,7 +574,7 @@ and even had the privilege of hiking the highest mountain in the American Rockie
 {.r-stretch}
 
 {{% note %}}
-I’ve probably taken more pictures of mountains than people in the last 10 to 15 years, or at least my pictures have a lot more mountains in them than not. I even got emotional in October 2021 when I flew over mountains, and could see them from the plane, for the first time since February 2020.
+I even got emotional in October 2021 when I flew over mountains, and could see them from the plane, for the first time since February 2020.
 
 So back to the call with the nurse:
 {{% /note %}}
@@ -767,7 +779,7 @@ As a result, Cis women with ADHD often are distracted from own self-care
   - pain
   - OR, may self-medicate with alcohol or drugs
 
-*Source: WebMD, NIH.gov, ADDitudemag.com*
+*Source: WebMD, NIH.gov, ADDitudemag.com*  
 *Included courtesy of Floor Drees, [@DevOpsBarbie](https://twitter.com/DevOpsBarbie)*
 
 
@@ -818,6 +830,8 @@ Where was I. Oh right. ADHD diagnosis. It made sense looking back at my life. I 
 
 {{% note %}}
 and also received a lot of this type of response:
+
+The doctor suggested that I would benefit from some medication, and to get with my primary doctor to identify what would work best. I did, and the results were almost immediate. 
 {{% /note %}}
 
 ---
@@ -825,7 +839,7 @@ and also received a lot of this type of response:
 ![ADHD-wow](/images/adhd-wow.gif)
 
 {{% note %}}
-The doctor suggested that I would benefit from some medication, and to get with my primary doctor to identify what would work best. I did, and the results were almost immediate. “THIS is how I’m supposed to feel? This is what being able to focus on something is supposed to look like? THIS is how all the normies functioned?”
+“THIS is how I’m supposed to feel? This iw what a functional brain feels like? This is what being able to focus on something is supposed to look like? THIS is how all the normies function?”
 {{% /note %}}
 
 ---
