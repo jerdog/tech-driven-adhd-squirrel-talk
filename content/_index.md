@@ -97,6 +97,8 @@ The only real contact was with people you requested to come to your home to drop
 
 {{% note %}}
 I am a child of the mid-70s. That means, I grew up knowing about (and using) all of these things. It just seemed that for me, and many of my generation, that we took to technology so easily.
+
+There wasn’t a lot I could focus on, but reading - man that was something I could do for hours, and days, on end. I read everything I could get my hands on. 
 {{% /note %}}
 
 ---
@@ -105,7 +107,7 @@ I am a child of the mid-70s. That means, I grew up knowing about (and using) all
 {.r-stretch}
 
 {{% note %}}
-There wasn’t a lot I could focus on, but reading - man that was something I could do for hours, and days, on end. I read everything I could get my hands on. In 1984 Pizza Hut started this summer reading campaign called BOOK IT where you would read a certain number of books and then get a free personal pan pizza. I ate so much pizza that year, and many summers after. I’m not saying that Pizza Hut ignited my desire to read, but I’m not _not_ saying it either.
+In 1984 Pizza Hut started this summer reading campaign called BOOK IT where you would read a certain number of books and then get a free personal pan pizza. I ate so much pizza that year, and many summers after. I’m not saying that Pizza Hut ignited my desire to read, but I’m not _not_ saying it either.
 {{% /note %}}
 
 ---
@@ -128,6 +130,32 @@ Computers. That was another thing I could mess around with for hours on end. My 
 
 ---
 
+![radio shack BASIC](/images/radio-shack-BASIC-book.jpg "&copy; 1977 Radio Shack")
+{.r-stretch}
+
+---
+
+![hobby computer book](/images/hobby-computer-book.webp "Hobby Computer Handbook, Fall/Winter 1979 and 1980 editions")
+{.r-stretch}
+
+---
+
+<img src="/images/smalltalk-80.jpeg" alt="Goldberg, Adele (December 1983). Smalltalk-80">
+<p style="font-size:0.50em;">Image: Goldberg, Adele (December 1983). Smalltalk-80: The Language and its Implementation. Addison-Wesley. ISBN 978-0-201-11371-6.</p>
+
+---
+
+<img src="/images/lotus-123.jpeg" alt="Lotus 1/2/3 for the IBM PC, Plume, 1984">
+<p style="font-size:0.50em;">Lotus 1/2/3 for the IBM PC, Plume, 1984</p>
+
+
+{{% note %}}
+Riveting stuff, amirite?
+I was hooked and messed around with them as often as I could, wherever I could. In the early 1980s my uncle worked for a company that provided IT services to the US Government in the early 80s, 
+{{% /note %}}
+
+---
+
 <section>
     <div class="multiCol">
         <div class="col">
@@ -144,11 +172,10 @@ Computers. That was another thing I could mess around with for hours on end. My 
             </ul>
         </div>
     </div>
+<aside class="notes">
+and let me mess around and borrow these just about as often as I wanted:
+</aside>
 </section>
-
-{{% note %}}
-I was hooked and messed around with them as often as I could, wherever I could. In the early 1980s my uncle worked for a company that provided IT services to the US Government in the early 80s, and let me mess around and borrow these just about as often as I wanted:
-{{% /note %}}
 
 ---
 
@@ -174,27 +201,21 @@ I was hooked and messed around with them as often as I could, wherever I could. 
     </div>
 </section>
 
-{{% note %}}
-
-{{% /note %}}
-
 ---
 
 <img src="/images/compaq-plus-newspaper.jpeg" width="80%">
 <figcaption style="font-size: .40em;font-style: italic;">Image: &copy; Computerworld Dec 1983</figcaption>
 
 {{% note %}}
-
+When I was about 8 I was privileged to get a computer from that same uncle, that had previously been thrown out by the Government, 
 {{% /note %}}
 
 ---
 
-{{% fragment %}}
 ![history of government spending since 1901](/images/history-gov-spending.jpeg "Image: Higher Rock Education")
-{{% /fragment %}}
 
 {{% note %}}
-When I was about 8 I was privileged to get a computer from that same uncle, that had previously been thrown out by the Government, because each year they had to replace things or else they wouldn’t get the budget renewed.
+because each year they had to replace things or else they wouldn’t get the budget renewed. So, since he worked for a government IT contractor, he just started stockpiling these “old”, thrown out machines, and gave me one like this 
 {{% /note %}}
 
 ---
@@ -220,18 +241,17 @@ When I was about 8 I was privileged to get a computer from that same uncle, that
             </ul>
         </div>
     </div>
+<aside class="notes">
+...around 1984 or so. It weighed 32lb, so that Compaq Portable Plus truly was portable. That love for computers, and trying everything I would read, led me to start typing things in without really reading the rest of the book. I would just type odd commands in that I found in the book _just_to see what was going to happen. 
+</aside>
 </section>
-
-{{% note %}}
-So, since he worked for a government IT contractor, he just started stockpiling these “old”, thrown out machines, and gave me one like this around 1984 or so. It weighed 32lb, so that Compaq Portable Plus truly was portable.
-{{% /note %}}
 
 ---
 
-{{% fragment %}}<font style="font-family: monospace; color: green;">del /f /s /q /a:rsh *.*</font>{{% /fragment %}}
+<h3 style="font-family: monospace; color: green;">del /f /s /q /a:rsh *.*</h3>
 
 {{% note %}}
-That love for computers, and trying everything I would read, led me to start typing things in without really reading the rest of the book. I would just type odd commands in that I found in the book _just_to see what was going to happen. Anyone know what this is gonna do?
+Anyone know what this is gonna do?
 {{% /note %}}
 
 ---
@@ -287,6 +307,12 @@ No, it’s the story of the first half of my 3rd grade year when we would play k
 And then after Winter break, suddenly I was told I wasn’t on their team, had never been on their team, and why would they have me, a kid with glasses, on their kickball team? I was devastated. And this repeated itself for weeks, until I finally stopped asking. And found something else to play. How many of you ever tried playing tetherball by yourself?
 {{% /note %}}
 
+
+---
+
+![napoleon tetherball](/images/lone-tetherball.gif)
+{.r-stretch}
+
 ---
 
 ![adhd child bingo](/images/adhd-child-bingo.jpeg)
@@ -338,7 +364,7 @@ Oh. So before that though, my mental state had been getting progressively worse 
 {.r-stretch}
 
 {{% note %}}
-So where was I? Oh yeah, camping in Colorado and my mental state. No, before that, to the beginning of my talk. Ok. So Covid really did a number on so many people, in various ways.
+So where was I? Oh yeah, camping in Colorado and my mental state. No, before that, to the beginning of my talk. Ok. So Covid really did a number on so many people, in various ways. During that first year of Covid lockdowns, many people I know, oddly a lot of them _in_ DevRel, found out and started posting that they had gotten diagnosed with ADHD and were in therapy, 
 {{% /note %}}
 
 ---
@@ -347,7 +373,9 @@ So where was I? Oh yeah, camping in Colorado and my mental state. No, before tha
 {.r-stretch}
 
 {{% note %}}
-During that first year of Covid lockdowns, many people I know, oddly a lot of them _in_ DevRel, found out and started posting that they had gotten diagnosed with ADHD and were in therapy, and I was so excited and happy for them that they had found that! I also said to myself, “It’s really odd that I’m not like them, isn’t it?”
+and I was so excited and happy for them that they had found that! I also said to myself, “It’s really odd that I’m not like them, isn’t it?” 
+
+So where were we? Oh yeah - 
 {{% /note %}}
 
 ---
@@ -355,7 +383,7 @@ During that first year of Covid lockdowns, many people I know, oddly a lot of th
 ![jeremy-annoyed](/images/annoyed.gif)
 
 {{% note %}}
-So where were we? Oh yeah - my worsening mental state. I had begun noticing that I was more irritable with my family (well they informed me I was), I was losing my trains of thought, finding it really hard to focus, and even _not_ being able to find the words to say something even though it was _right there on the tip of my tongue_.
+my worsening mental state. I had begun noticing that I was more irritable with my family (well they informed me I was), I was losing my trains of thought, finding it really hard to focus, and even _not_ being able to find the words to say something even though it was _right there on the tip of my tongue_.
 {{% /note %}}
 
 ---
@@ -365,6 +393,65 @@ So where were we? Oh yeah - my worsening mental state. I had begun noticing that
 
 {{% note %}}
 Finally, I got concerned, and went to my doctor in May of 2021. I told her what I was experiencing, and she of course mentioned it could be any number of things, but they would do some blood tests and then go from there. I heard back from the doctor later that day as I was finalizing my camping trip to Colorado. 
+{{% /note %}}
+
+---
+
+<table class="table table-bordered .r-stretch" bgcolor="white" style="color: black;">
+    <thead>
+        <th>Lab test</th>
+        <th>May 2021</th>
+        <th>Ref Range</th>
+    </thead>
+    <tr>
+        <td style="font-weight: bolder;">RBC<br/><font style="font-size: .7em; font-style: italic;">Red blood count</font></td>
+        <td style="font-weight: bold;"><font style="color: red;">4</font></td>
+        <td>(4.5-6.5)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">WBC<br/><font style="font-size: .7em; font-style: italic;">White blood count</font></td>
+        <td style="font-weight: bold;"><font style="color: red;">3.7</font></td>
+        <td>(4-11)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">MCV<br/><font style="font-size: .7em; font-style: italic;"></td>
+        <td style="font-weight: bold;"><font style="color: red;">71</font></td>
+        <td>(81-99)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">MCHC<br/></td>
+        <td style="font-weight: bold;"><font style="color: red;">27</font></td>
+        <td>(30-36)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">MCH<br/></td>
+        <td style="font-weight: bold;"><font style="color: red;">19</font></td>
+        <td>(27-34)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">Hgb<br/></td>
+        <td style="font-weight: bold;"><font style="color: red;">7.7</font></td>
+        <td>(13.5-18)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">Hct<br/></td>
+        <td style="font-weight: bold;"><font style="color: red;">28%</font></td>
+        <td>(40-52%)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">Iron sat</td>
+        <td style="font-weight: bold;"><font style="color: red;">3%</font></td>
+        <td>(15-50%)</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bolder;">Iron</td>
+        <td style="font-weight: bold;"><font style="color: red;">17</font></td>
+        <td>(59-158)</td>
+    </tr>
+</table>
+
+{{% note %}}
+The nurse gave me these results, and then told me I had iron-deficiency anemia, to get on high doses of Iron, and come in for some more tests in a few days to then identify next steps. Now, again, I'm not a doctor, but I do know _now_ that these results were not good. Like at all. Red blood cells carry hemoglobin which carries oxygen in the blood, and dictate how much oxygen your body tissue gets. WBC help your immune system fight infection. All of which are only slightly important during a certain pandemic.
 {{% /note %}}
 
 ---
@@ -433,7 +520,8 @@ Finally, I got concerned, and went to my doctor in May of 2021. I told her what 
 </table>
 
 {{% note %}}
-The nurse gave me these results, and then told me I had iron-deficiency anemia, to get on high doses of Iron, and they needed me to come in for some more tests the next week before they identified next steps. I said, “Ok. Good to know. So I’m leaving for a camping trip in the mountains of Colorado, and will be gone. Can we wait a week?” And her response, almost verbatim, was,
+Now after a few months I was able to get all of these levels up, and they've stayed up.
+So I told the nurse, “Ok. Good to know. So I’m leaving for a camping trip in the mountains of Colorado, and will be gone. Can we wait a week?” And her response, almost verbatim, was,
 {{% /note %}}
 
 ---
@@ -455,11 +543,29 @@ Now let me tell you about me and mountains. They are my happy place. I grew up i
 
 ---
 
+![mountains1](/images/mountains1.jpeg)
+{.r-stretch}
+
+{{% note %}}
+I was in complete, and total awe. I was hooked. Over the last 25 years 
+{{% /note %}}
+
+---
+
+![mountains2](/images/mountains2.jpeg)
+{.r-stretch}
+
+{{% note %}}
+I’ve traveled West more than East, and seen more mountains than I had previously thought possible, hiked quite a few, 
+{{% /note %}}
+
+---
+
 ![mount-elbert-colorado](/images/mount-elbert.jpeg "Image: Jeremy and Wife, Mount Elbert, CO, 14,439 feet.")
 {.r-stretch}
 
 {{% note %}}
-I was in complete, and total awe. I was hooked. Over the last 25 years I’ve traveled West more than East, and seen more mountains than I had previously thought possible, hiked quite a few, and even had the privilege of hiking the highest mountain in the American Rockies, Mount Elbert, outside Leadville, Colorado with my wife.
+and even had the privilege of hiking the highest mountain in the American Rockies, Mount Elbert, outside Leadville, Colorado with my wife. I’ve probably taken more pictures of mountains than people in the last 10 to 15 years, or at least my pictures have a lot more mountains in them than not. 
 {{% /note %}}
 
 ---
@@ -468,7 +574,7 @@ I was in complete, and total awe. I was hooked. Over the last 25 years I’ve tr
 {.r-stretch}
 
 {{% note %}}
-I’ve probably taken more pictures of mountains than people in the last 10 to 15 years, or at least my pictures have a lot more mountains in them than not. I even got emotional in October 2021 when I flew over mountains, and could see them from the plane, for the first time since February 2020.
+I even got emotional in October 2021 when I flew over mountains, and could see them from the plane, for the first time since February 2020.
 
 So back to the call with the nurse:
 {{% /note %}}
@@ -601,7 +707,7 @@ There are three subtypes of ADHD: inattentive, hyperactive/impulsive and mixed. 
 
 {{% note %}}
 With **more common symptoms** more visible in men/boys, they get diagnosed more often. And those behaviors are often considered more socially acceptable for them, and so women suppress or hide theirs to fit in better, and don't get diagnosed. **Bias:** 
-**Research:** We know most studies don't take equal sample sizes, if they include afabs at all.
+**Research:** We know most studies don't take equal sample sizes, if they include those Assigned Feminine at Birth at all.
 **Inattention symptoms in females** with ADHD are more likely to occur in structured educational environments, such as college, which may delay the diagnosis.
 {{% /note %}}
 
@@ -674,8 +780,6 @@ As a result, Cis women with ADHD often are distracted from own self-care
   - OR, may self-medicate with alcohol or drugs
 
 *Source: WebMD, NIH.gov, ADDitudemag.com*
-*Included courtesy of Floor Drees, [@DevOpsBarbie](https://twitter.com/DevOpsBarbie)*
-
 
 {{% note %}}
 Women are often misdiagnosed and treated for anxiety and mood disorders as primary diagnoses. 
@@ -724,6 +828,8 @@ Where was I. Oh right. ADHD diagnosis. It made sense looking back at my life. I 
 
 {{% note %}}
 and also received a lot of this type of response:
+
+The doctor suggested that I would benefit from some medication, and to get with my primary doctor to identify what would work best. I did, and the results were almost immediate. 
 {{% /note %}}
 
 ---
@@ -731,23 +837,7 @@ and also received a lot of this type of response:
 ![ADHD-wow](/images/adhd-wow.gif)
 
 {{% note %}}
-The doctor suggested that I would benefit from some medication, and to get with my primary doctor to identify what would work best. I did, and the results were almost immediate. “THIS is how I’m supposed to feel? This is what being able to focus on something is supposed to look like? THIS is how all the normies functioned?”
-{{% /note %}}
-
----
-
-### How ADHD had been helpful
-
-<p class="fragment" style="font-size: .75em;">1. Relate technical concepts to different groups of people</p>
-<p class="fragment" style="font-size: .75em;">2. Get a grasp of the latest and greatest technologies and concepts</p>
-<p class="fragment" style="font-size: .75em;">3. Step into inherent “context-switching” that tech & DevRel requires</p>
-
-{{% note %}}
-I began to realize for myself and my technology journey, how my ADHD had been extremely helpful:
-
-1. Relate technical concepts to different groups of people
-2. Get a grasp of the latest and greatest technologies and concepts
-3. Step into the inherent “context-switching” that tech & DevRel requires
+“THIS is how I’m supposed to feel? This iw what a functional brain feels like? This is what being able to focus on something is supposed to look like? THIS is how all the normies function?” 
 {{% /note %}}
 
 ---
@@ -756,7 +846,23 @@ I began to realize for myself and my technology journey, how my ADHD had been ex
 {.r-stretch}
 
 {{% note %}}
-But that wasn’t enough. As I adjusted to the medication, and doing work and life and such, I kinda had to start all over with understanding how I functioned. I found myself being able to shift easily between different tasks as needed (which I always could - probably too easily), and then REMEMBERING to come back to the previous task (a NEW thing for me). However this also heightened my propensity to overwork and not take the breaks necessary.
+But that wasn’t enough. As I adjusted to the medication, along with work and life and such, I had to start all over with understanding how I functioned. I found myself being able to shift easily between different tasks as needed (which I always could - probably too easily), and then REMEMBERING to come back to the previous task (a NEW thing for me). However this also heightened my propensity to overwork and not take the breaks necessary. **I started to understand**, and learn to accept, that some of my shortcomings weren't all my fault, and also that the diagnosis is an explanation not an excuse.
+{{% /note %}}
+
+---
+
+### Embracing my ADHD
+
+<ol>
+<li style="font-size: .7em;">Explained _some_ of my shortcomings, but not an excuse</li>
+<li class="fragment" style="font-size: .7em;">Understanding how my brain works</li>
+<li class="fragment" style="font-size: .7em;">Accept the scattered thinking, and seek creative and problem-solving</li>
+<li class="fragment" style="font-size: .7em;">Step into inherent “context-switching” that tech & DevRel requires</li>
+</ol>
+
+{{% note %}}
+**You understand how your own mind works:** Generally, people with ADHD often excel when taking a "birds eye view" and analyzing potential "what-if's" and hypotheticals, but also sometimes to a detriment when they become tangents.
+With so much incoming data, it is **hard to focus** on one thing in particular. But, it enables divergent thinking, filled with creativity and problem solving abilities. 
 {{% /note %}}
 
 ---
