@@ -839,23 +839,7 @@ The doctor suggested that I would benefit from some medication, and to get with 
 ![ADHD-wow](/images/adhd-wow.gif)
 
 {{% note %}}
-“THIS is how I’m supposed to feel? This iw what a functional brain feels like? This is what being able to focus on something is supposed to look like? THIS is how all the normies function?”
-{{% /note %}}
-
----
-
-### How ADHD had been helpful
-
-<p class="fragment" style="font-size: .75em;">1. Relate technical concepts to different groups of people</p>
-<p class="fragment" style="font-size: .75em;">2. Get a grasp of the latest and greatest technologies and concepts</p>
-<p class="fragment" style="font-size: .75em;">3. Step into inherent “context-switching” that tech & DevRel requires</p>
-
-{{% note %}}
-I began to realize for myself and my technology journey, how my ADHD had been extremely helpful:
-
-1. Relate technical concepts to different groups of people
-2. Get a grasp of the latest and greatest technologies and concepts
-3. Step into the inherent “context-switching” that tech & DevRel requires
+“THIS is how I’m supposed to feel? This iw what a functional brain feels like? This is what being able to focus on something is supposed to look like? THIS is how all the normies function?” 
 {{% /note %}}
 
 ---
@@ -864,7 +848,23 @@ I began to realize for myself and my technology journey, how my ADHD had been ex
 {.r-stretch}
 
 {{% note %}}
-But that wasn’t enough. As I adjusted to the medication, and doing work and life and such, I kinda had to start all over with understanding how I functioned. I found myself being able to shift easily between different tasks as needed (which I always could - probably too easily), and then REMEMBERING to come back to the previous task (a NEW thing for me). However this also heightened my propensity to overwork and not take the breaks necessary.
+But that wasn’t enough. As I adjusted to the medication, along with work and life and such, I had to start all over with understanding how I functioned. I found myself being able to shift easily between different tasks as needed (which I always could - probably too easily), and then REMEMBERING to come back to the previous task (a NEW thing for me). However this also heightened my propensity to overwork and not take the breaks necessary. **I started to understand**, and learn to accept, that some of my shortcomings weren't all my fault, and also that the diagnosis is an explanation not an excuse.
+{{% /note %}}
+
+---
+
+### Embracing my ADHD
+
+<ol>
+<li style="font-size: .7em;">Explained _some_ of my shortcomings, but not an excuse</li>
+<li class="fragment" style="font-size: .7em;">Understanding how my brain works</li>
+<li class="fragment" style="font-size: .7em;">Accept the scattered thinking, and seek creative and problem-solving</li>
+<li class="fragment" style="font-size: .7em;">Step into inherent “context-switching” that tech & DevRel requires</li>
+</ol>
+
+{{% note %}}
+**You understand how your own mind works:** Generally, people with ADHD often excel when taking a "birds eye view" and analyzing potential "what-if's" and hypotheticals, but also sometimes to a detriment when they become tangents.
+With so much incoming data, it is **hard to focus** on one thing in particular. But, it enables divergent thinking, filled with creativity and problem solving abilities. 
 {{% /note %}}
 
 ---
