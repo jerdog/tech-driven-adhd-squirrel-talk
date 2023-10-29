@@ -27,7 +27,7 @@ params:
     left: '80%'
     width: '15%'
   logo-btm-left:
-    src: '/images/connecttech-logo.png'
+    src: ''
     top: '87%'
     left: '5%'
     width: '5%'
