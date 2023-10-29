@@ -19,6 +19,10 @@ Come along on this ADHD-fueled journey as Jeremy tells _some_ of his journey in 
 
 _Note to conference organizers: This session really is more about sharing my journey through tech and mental health, and hopefully it will resonate with some people and encourage others to do the same. It is not a traditional technical talk, and fits more in a keynote or life skills or community category._
 
+#### Presented at
+
+- [Connect.Tech 2023](https://speaking.jmeiss.me/YVGyRJ/confessions-of-an-adhd-fueled-technologi)
+
 #### Links
 
 - [Sessionize profile](https://sessionize.com/jeremy-meiss)
