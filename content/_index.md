@@ -35,7 +35,7 @@ How do you do it? Because that’s not me. Like, at all. Not even in the slighte
 ---
 
 {{< slide id="bio" transition="zoom" transition-speed="fast" >}}
-<section>
+<section data-noprocess>
     <div class="multiCol">
         <div class="col">
             <h4 style="color: rgb(111, 168, 220);">Jeremy Meiss</h4>
@@ -156,7 +156,7 @@ I was hooked and messed around with them as often as I could, wherever I could. 
 
 ---
 
-<section>
+<section data-noprocess>
     <div class="multiCol">
         <div class="col">
             <img src="/images/kaypro2-wikipedia.jpeg" width="80%">
@@ -179,7 +179,7 @@ These Kaypro's were pretty cool with their dual single-sided floppy drives, wher
 
 ---
 
-<section>
+<section data-noprocess>
     <div class="multiCol">
         <div class="col">
             <img src="/images/compaq-portable-plus.jpeg" width="80%">
@@ -223,7 +223,7 @@ because each year they had to replace things or else they wouldn’t get the bud
 
 ---
 
-<section>
+<section data-noprocess>
     <div class="multiCol">
         <div class="col">
             <img src="/images/Ibm_pcxt.jpeg" alt="IBM PC XT, Wikimedia" width="80%">
@@ -730,7 +730,7 @@ Women are less likely to outgrow ADHD. About 60% of women have ADHD that continu
 
 ---
 
-<section>
+<section data-noprocess>
     <h4>Cis Males/Females different comorbidity patterns</h4>
     <p style="font-size: 0.3em;"><strong>comorbidity</strong> is when another condition occurs alongside another</p>
 <table class="table table-bordered .r-stretch">
@@ -994,6 +994,8 @@ They even did a podcast with one of our speakers from yesterday afternoon, Ceora
   - [WebMD: Living Well with Adult ADHD](https://www.webmd.com/add-adhd/living-well-adult-adhd)
 - [Cleveland Clinic: ADHD in Women](https://my.clevelandclinic.org/health/diseases/24741-adhd-in-women)
 - [ADDitude Magazine: Gender differences in ADHD](https://www.additudemag.com/gender-differences-in-adhd-women-vs-men/)
+- [StackOverflow Podcast: The many strengths of neurodivergence](https://stackoverflow.blog/2022/10/04/the-many-strengths-of-neurodivergence/)
+- [StackOverflow Blog: Developer with ADHD? You're not alone](https://stackoverflow.blog/2023/02/19/developer-with-adhd-youre-not-alone/)
 
 {{% note %}}
 
@@ -1141,15 +1143,50 @@ Hussein brings up that it's ok to embrace those "sprints" of hen you get super, 
 ](https://www.wired.com/story/how-technology-help-cope-with-adhd/)
 - [WebMD: Adult ADHD Symptoms, Causes, Treatments](https://www.webmd.com/add-adhd/adhd-adults)
   - [WebMD: Living Well with Adult ADHD](https://www.webmd.com/add-adhd/living-well-adult-adhd)
-
+- [StackOverflow Podcast: The many strengths of neurodivergence](https://stackoverflow.blog/2022/10/04/the-many-strengths-of-neurodivergence/)
+- [StackOverflow Blog: Developer with ADHD? You're not alone](https://stackoverflow.blog/2023/02/19/developer-with-adhd-youre-not-alone/)
 {{% note %}}
 
 {{% /note %}}
 
 ---
 
+#### Special Thanks
+
+<table class="table table-bordered" bgcolor="white" style="color: black;">
+    <thead>
+        <th>Stories shared on Twitter</th>
+        <th>Provided content & feedback</th>
+    </thead>
+    <tr>
+        <td align="center" style="vertical-align: top;">
+            <ul>
+                <li><a href="https://twitter.com/DevOpsBarbie">Floor</a></li>
+                <li><a href="https://twitter.com/_KaylaSween">Kayla Sween</a></li>
+                <li><a href="https://twitter.com/elchefe">tim</a></li>
+                <li><a href="https://twitter.com/inkedtater">Shon</a></li>
+                <li><a href="https://twitter.com/richburroughs">Rich Burroughs</a></li>
+                <li><a href="https://twitter.com/blagh">Hannele</a></li>
+                <li><a href="https://twitter.com/xirclebox">Halcyon</a></li>
+                <li><a href="https://twitter.com/realjohnkjell">John Kjell</a></li>
+                <li><a href="https://twitter.com/erinmikail">Erin Mikail Staples</a></li>
+                <li><a href="https://twitter.com/hmfarran">Hussein Farran</a></li>
+            </ul>
+        </td>
+        <td align="center" style="vertical-align: top;">
+            <ul>
+                <li><a href="https://twitter.com/DevOpsBarbie">Floor</a></li>
+                <li><a href="https://twitter.com/erinmikail">Erin Mikail Staples</a></li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+
+---
+
 {{< slide id="end" >}}
-<section>
+<section data-noprocess>
     <div class="multiCol">
         <div class="col">
             <h3 style="color: #04aa51;">Thank You.</h3>
